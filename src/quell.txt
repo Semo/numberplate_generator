@@ -1,0 +1,3921 @@
+[[Datei:Kfz-Kennzeichen in Deutschland.svg|mini|hochkant=1.5|Karte der Kfz-Kennzeichen in Deutschland (wiedereingeführte Kennzeichen in Grün, nicht wiedereingeführte in Rot)]]
+
+Die '''Liste der Kfz-Kennzeichen in Deutschland''' enthält die [[Kfz-Kennzeichen (Deutschland)#Unterscheidungszeichen|Unterscheidungszeichen]] im Sinne der [[Fahrzeug-Zulassungsverordnung]], die derzeit von [[Kraftfahrzeug-Zulassungsbehörde|Kfz-Zulassungsbehörden]] in [[Deutschland]] bei der Vergabe von [[Kfz-Kennzeichen (Deutschland)|Kraftfahrzeugkennzeichen]] verwendet werden dürfen.
+
+{{TOC limit|2}}
+
+In der Liste wird hinter dem Kennzeichen die Gebietskörperschaft (Landkreis, kreisfreie Stadt) genannt, deren Zulassungsstelle befugt ist, Kennzeichen mit dem genannten Unterscheidungszeichen auszugeben. In der Spalte rechts daneben wird dargelegt, woher sich das Zeichen ableitet. Die Links bei den Kreisbezeichnungen bzw. den Namen der kreisfreien Städte führen zum Artikel des jeweiligen Verwaltungsbezirks.
+
+Zeichen, die sowohl von einer kreisfreien Stadt als auch von einem Landkreis verwendet werden, sind besonders erläutert. Die Kfz-Zeichen unterscheiden sich in diesen Fällen durch die Kombination von Buchstaben und Ziffern. Dabei steht „X“ für einen Buchstaben, „XX“ für zwei, „9“ für eine Ziffer usw. Für die – wegen Verwechslungsgefahr mit anderen Buchstaben oder Ziffern – erst später eingeführten Buchstaben „B“, „F“, „G“, „I“, „O“ und „Q“ gelten oft Abweichungen von der üblichen Zuteilung. Diese werden hier in der Regel nicht angegeben. Sehr oft, aber nicht immer, erhält der Zulassungsbezirk die kurzen Kennzeichen mit mindestens einem dieser Buchstaben, wenn er ansonsten die Kennzeichen „XX 999“ vergibt. Kennzeichen mit weniger als vier Buchstaben und Ziffern („Digits“) nach dem Unterscheidungszeichen werden in einigen Zulassungsbezirken nur solchen Fahrzeugen zugeteilt, die bauartbedingt keine größeren Kennzeichen führen können, zum Beispiel US-amerikanische Importfahrzeuge oder [[Motorrad|Krafträder]].
+
+Aufgehobene Unterscheidungszeichen, die nicht mehr vergeben werden, sind hier nicht enthalten. Diese sind in der [[Liste der deutschen Kfz-Kennzeichen, die nicht mehr ausgegeben werden]], zu finden.
+
+Die Anzahl der Buchstaben für den Zulassungsbezirk richtete sich ursprünglich möglichst nach der Einwohnerzahl der Gebietskörperschaft oder Stadt. Die jeweils größten Städte erhielten einen Einzelbuchstaben. So lautet das Kennzeichen für die Stadt Wuppertal „W“, da es die größte Stadt Deutschlands ist, deren Name mit dem Buchstaben „W“ beginnt. Wichtigste Ausnahme: Das viel größere Hamburg hat „HH“ für ''Hansestadt Hamburg'', so konnte „H“ für die nächstkleinere Stadt Hannover genommen werden. Beim ersten Entwurf des Kennzeichensystems wurden auch [[Ostzonenverzeichnis der deutschen Kfz-Kennzeichen|Kennzeichen für die Gebietskörperschaften in der DDR und den ehemaligen deutschen Ostgebieten]] reserviert.
+
+== Wiedereingeführte Kfz-Kennzeichen ==
+Seit dem 1. November 2012 können Zulassungsbezirke mehr als ein Unterscheidungszeichen führen, z.&nbsp;B. neben dem Unterscheidungszeichen eines Kreises ein früher vergebenes Unterscheidungszeichen eines Altkreises bzw. einer kreisangehörigen Stadt. Die Unterscheidungszeichen der Verwaltungsbezirke werden auf Antrag der Länder vom [[Bundesministerium für Verkehr und digitale Infrastruktur]] (BMVI) festgelegt oder aufgehoben. Die im Rahmen der [[Kennzeichenliberalisierung]] erneut zugelassenen Unterscheidungszeichen werden ebenfalls aufgeführt. Die Festlegung und Aufhebung von Unterscheidungszeichen werden im [[Bundesanzeiger]] veröffentlicht.<ref>{{§|8|fzv_2011|juris}} Abs. 2 der [[Fahrzeug-Zulassungsverordnung]] in der seit 1. November 2012 geltenden Fassung</ref>
+
+== Liste der Kfz-Kennzeichen in Deutschland ==
+{{TOC Artikel|ZEICHEN=#A}}Diese Liste umfasst 700 Kennzeichen.
+
+=== 0–9 ===
+{| class="wikitable" width="66%"
+|-class="hintergrundfarbe6"
+!width="7%" bgcolor=#BBCCFF align=left| Zahl
+!width="93%" bgcolor=#BBCCFF align=left| Institution
+|-
+| rowspan="5" | '''0'''
+| '''0-1''' [[Kraftfahrzeug]]e (Kfz) des [[Bundespräsident_(Deutschland)#Dienstwagen|Bundespräsidenten]]
+|-
+| '''0-2''' Kfz des [[Bundeskanzler (Deutschland)|Bundeskanzlers]]
+|-
+| '''0-3''' Kfz des [[Außenminister]]s
+|-
+| '''0-4''' Kfz des ersten [[Staatssekretär]]s im [[Auswärtiges Amt|Auswärtigen Amt]]
+|-
+| '''0-99(9)-9 (X)''', '''0-99(9)-99 (X)''' oder '''0-99(9)-999 (X)''' Kfz des [[Diplomatenkennzeichen (Deutschland)|Diplomatischen Korps]] (sofern in Deutschland [[Akkreditierung (Diplomatie)|akkreditiert]])
+|-
+| '''1'''
+| '''1-1''' Kfz des [[Präsident des Deutschen Bundestages|Bundestagspräsidenten]]
+|-
+|}
+
+=== A ===
+{| {{TabDKfz}}
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#A|A]]'''
+| Stadt [[Augsburg]] (AA–ZZ 100–999 und 5000–9999 ohne PS 100–999)*
+| rowspan="3" | '''A'''ugsburg
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Augsburg]] (sonst)*
+|-
+| [[Polizeipräsidium Schwaben Nord]] (PS 100–999)
+|-
+| '''AA'''
+| [[Ostalbkreis]]
+| [[Aalen|'''AA'''len]]
+| [[Baden-Württemberg]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#A|AB]]'''
+| Stadt [[Aschaffenburg]] (sonst)*
+| rowspan="2" | '''A'''schaffen'''B'''urg
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Aschaffenburg]] (AA–ZZ 100–9999)*
+|-
+| '''ABG'''
+| [[Landkreis Altenburger Land]]
+| [[Altenburg|'''A'''lten'''B'''ur'''G''']]
+| [[Thüringen]]
+|-
+| '''ABI'''
+| [[Landkreis Anhalt-Bitterfeld]]
+| [[Anhalt|'''A'''nhalt]], [[Bitterfeld|'''BI'''tterfeld]]
+| [[Sachsen-Anhalt]]
+|-
+| '''AC'''
+| [[Städteregion Aachen]]
+| [[Aachen|'''A'''a'''C'''hen]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''AE'''
+| [[Vogtlandkreis]]
+| [[Auerbach/Vogtl.|'''A'''u'''E'''rbach]]
+| [[Sachsen]]
+|-
+| '''AH'''
+| [[Kreis Borken]]
+| [[Ahaus|'''AH'''aus]]
+| [[Nordrhein-Westfalen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#A|AIB]]'''
+| [[Landkreis München]] (Q 10–9999)
+| rowspan="2" | [[Bad Aibling|'''AIB'''ling]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Rosenheim]] (sonst)
+|-
+| '''AIC'''
+| [[Landkreis Aichach-Friedberg]]
+| [[Aichach|'''AIC'''hach]]
+| [[Bayern]]
+|-
+| '''AK'''
+| [[Landkreis Altenkirchen (Westerwald)]]
+| [[Altenkirchen (Westerwald)|'''A'''lten'''K'''irchen]]
+| [[Rheinland-Pfalz]]
+|-
+| '''ALF'''
+| [[Landkreis Hildesheim]]
+| [[Alfeld (Leine)|'''ALF'''eld]]
+| [[Niedersachsen]]
+|-
+| '''ALZ'''
+| [[Landkreis Aschaffenburg]]
+| [[Alzenau|'''ALZ'''enau]]
+| [[Bayern]]
+|-
+| '''AM'''
+| Stadt [[Amberg]]
+| '''AM'''berg
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#A|AN]]'''
+| Stadt [[Ansbach]] (sonst)*
+| rowspan="2" | '''AN'''sbach
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Ansbach]] (AA–ZZ 100–999)*
+|-
+| '''ANA'''
+| [[Erzgebirgskreis]]
+| [[Annaberg-Buchholz|'''AN'''n'''A'''berg]]
+| [[Sachsen]]
+|-
+| '''ANG'''
+| [[Landkreis Uckermark]]
+| [[Angermünde|'''ANG'''ermünde]]
+| [[Brandenburg]]
+|-
+| '''ANK'''
+| [[Landkreis Vorpommern-Greifswald]] ohne die Stadt [[Greifswald]]
+| [[Anklam|'''ANK'''lam]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''AÖ'''
+| [[Landkreis Altötting]]
+| [[Altötting|'''A'''lt'''Ö'''tting]]
+| [[Bayern]]
+|-
+| '''AP'''
+| [[Landkreis Weimarer Land]]
+| [[Apolda|'''AP'''olda]]
+| [[Thüringen]]
+|-
+| '''APD'''
+| [[Landkreis Weimarer Land]]
+| '''AP'''ol'''D'''a
+| [[Thüringen]]
+|-
+| '''ARN'''
+| [[Ilm-Kreis]]
+| [[Arnstadt|'''ARN'''stadt]]
+| [[Thüringen]]
+|-
+| '''ART'''
+| [[Kyffhäuserkreis]]
+| [[Artern|'''ART'''ern]]
+| [[Thüringen]]
+|-
+| '''AS'''
+| [[Landkreis Amberg-Sulzbach]]
+| [[Amberg|'''A'''mberg]], [[Sulzbach-Rosenberg|'''S'''ulzbach]]
+| [[Bayern]]
+|-
+| '''ASL'''
+| [[Salzlandkreis]]
+| [[Aschersleben|'''AS'''chers'''L'''eben]]
+| [[Sachsen-Anhalt]]
+|-
+| '''ASZ'''
+| [[Erzgebirgskreis]]
+| [[Aue (Sachsen)|'''A'''ue]], [[Schwarzenberg/Erzgeb.|'''S'''chwar'''Z'''enberg]]
+| [[Sachsen]]
+|-
+| '''AT'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Altentreptow|'''A'''lten'''T'''reptow]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''AU'''
+| [[Erzgebirgskreis]]
+| [[Aue (Sachsen)|'''AU'''e]]
+| [[Sachsen]]
+|-
+| '''AUR'''
+| [[Landkreis Aurich]]
+| [[Aurich|'''AUR'''ich]]
+| [[Niedersachsen]]
+|-
+| '''AW'''
+| [[Landkreis Ahrweiler]]
+| [[Ahrweiler|'''A'''hr'''W'''eiler]]
+| [[Rheinland-Pfalz]]
+|-
+| '''AZ'''
+| [[Landkreis Alzey-Worms]]
+| [[Alzey|'''A'''l'''Z'''ey]]
+| [[Rheinland-Pfalz]]
+|-
+| '''AZE'''
+| [[Landkreis Anhalt-Bitterfeld]]
+| [[Anhalt|'''A'''nhalt]]-[[Zerbst/Anhalt|'''ZE'''rbst]]
+| [[Sachsen-Anhalt]]
+|-
+|}
+
+=== B ===
+{| {{TabDKfz}}
+|-
+| rowspan="3" | '''B'''
+| Stadt [[Berlin]]
+| rowspan="3" | '''B'''erlin
+| rowspan="3" | [[Berlin]]
+|-
+| [[Senat von Berlin|Berlin, Senat]] und [[Abgeordnetenhaus von Berlin|Abgeordnetenhaus]]
+|-
+| [[Diplomatenkennzeichen (Deutschland)|Diplomaten]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#B|BA]]'''
+| Stadt [[Bamberg]]
+| rowspan="3" | '''BA'''mberg
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Bamberg]]
+|-
+| [[Bayerische Bereitschaftspolizei|Bayerisches Bereitschaftspolizeipräsidium]] (P 1000–9999)
+|-
+| '''BAD'''
+| Stadt [[Baden-Baden]]
+| '''BAD'''en-Baden
+| [[Baden-Württemberg]]
+|-
+| '''BAR'''
+| [[Landkreis Barnim]]
+| [[Barnim|'''BAR'''nim]]
+| [[Brandenburg]]
+|-
+| '''BB'''
+| [[Landkreis Böblingen]]
+| [[Böblingen|'''B'''ö'''B'''lingen]]
+| [[Baden-Württemberg]]
+|-
+| '''BBG'''
+| [[Salzlandkreis]]
+| [[Bernburg (Saale)|'''B'''ern'''B'''ur'''G''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''BBL'''
+| [[Brandenburg]], [[Brandenburgische Landesregierung|Landesregierung]], [[Landtag Brandenburg|Landtag]] und [[Polizei Brandenburg|Polizei]]<ref name="FZVO">Artikel 1, Ziffer 27 der Ersten Verordnung zur Änderung der Fahrzeug-Zulassungsverordnung vom 19. Oktober 2012 ({{BGBl|2012n I S. 2232}})</ref>
+| '''B'''randen'''B'''urgische '''L'''andesregierung
+| [[Brandenburg]]
+|-
+| '''BC'''
+| [[Landkreis Biberach]]
+| [[Biberach an der Riß|'''B'''ibera'''C'''h]]
+| [[Baden-Württemberg]]
+|-
+| '''BCH'''
+| [[Neckar-Odenwald-Kreis]]
+| [[Buchen (Odenwald)|'''B'''u'''CH'''en]]
+| [[Baden-Württemberg]]
+|-
+| '''BD'''
+| [[Deutscher Bundestag]], [[Bundesrat (Deutschland)|Bundesrat]], [[Bundespräsidialamt]], [[Bundesregierung (Deutschland)|Bundesregierung]], Bundesministerien, [[Bundesfinanzverwaltung]] und [[Bundesverfassungsgericht]]<ref name="FZVO" />
+| [[Bundesebene (Deutschland)|'''B'''un'''D''']]
+| bundesweit
+|-
+| '''BE'''
+| [[Kreis Warendorf]]
+| [[Beckum|'''BE'''ckum]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''BED'''
+| [[Landkreis Mittelsachsen]]
+| [[Brand-Erbisdorf|'''B'''rand-'''E'''rbis'''D'''orf]]
+| [[Sachsen]]
+|-
+| '''BER'''
+| [[Landkreis Barnim]]
+| [[Bernau bei Berlin|'''BER'''nau]]
+| [[Brandenburg]]
+|-
+| '''BF'''
+| [[Kreis Steinfurt]]
+| [[Steinfurt#Burgsteinfurt|'''B'''urgstein'''F'''urt]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''BGD'''
+| [[Landkreis Berchtesgadener Land]]
+| [[Berchtesgaden|'''B'''erchtes'''G'''a'''D'''en]]
+| [[Bayern]]
+|-
+| '''BGL'''
+| [[Landkreis Berchtesgadener Land]]
+| [[Berchtesgadener Land (Tourismusregion)|'''B'''erchtes'''G'''adener '''L'''and]]
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#B|BH]]'''
+| [[Ortenaukreis]] (F 7000–7999, N 8000–8999, O 2000–2999, OF 1–6999, OG 9000–9999, OK 3000–3999 und OP 1–4999)
+| rowspan="2" | [[Bühl (Baden)|'''B'''ü'''H'''l]]
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Landkreis Rastatt]] (sonst)
+|-
+| '''BI'''
+| Stadt [[Bielefeld]]
+| '''BI'''elefeld
+| [[Nordrhein-Westfalen]]
+|-
+| '''BID'''
+| [[Landkreis Marburg-Biedenkopf]]
+| [[Biedenkopf|'''BI'''e'''D'''enkopf]]
+| [[Hessen]]
+|-
+| '''BIN'''
+| [[Landkreis Mainz-Bingen]]
+| [[Bingen am Rhein|'''BIN'''gen]]
+| [[Rheinland-Pfalz]]
+|-
+| '''BIR'''
+| [[Landkreis Birkenfeld]]
+| [[Birkenfeld (Nahe)|'''BIR'''kenfeld]]
+| [[Rheinland-Pfalz]]
+|-
+| '''BIT'''
+| [[Eifelkreis Bitburg-Prüm]]
+| [[Bitburg|'''BIT'''burg]]
+| [[Rheinland-Pfalz]]
+|-
+| '''BIW'''
+| [[Landkreis Bautzen]]
+| [[Bischofswerda|'''BI'''schofs'''W'''erda]]
+| [[Sachsen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#B|BK]]'''
+| [[Rems-Murr-Kreis]] (A–Z 1–9999 und AA–ZZ 1–99)*
+| [[Backnang|'''B'''ac'''K'''nang]]
+| [[Baden-Württemberg]]
+|-
+| [[Landkreis Börde]] (AA–ZZ 100–9999)*
+| [[Magdeburger Börde|'''B'''örde]]('''K'''reis)
+| [[Sachsen-Anhalt]]
+|-
+| '''BKS'''
+| [[Landkreis Bernkastel-Wittlich]]
+| [[Bernkastel-Kues|'''B'''ern'''K'''a'''S'''tel]]
+| [[Rheinland-Pfalz]]
+|-
+| '''BL'''
+| [[Zollernalbkreis]]
+| [[Balingen|'''B'''a'''L'''ingen]]
+| [[Baden-Württemberg]]
+|-
+| '''BLB'''
+| [[Kreis Siegen-Wittgenstein]]
+| [[Bad Berleburg|'''B'''er'''L'''e'''B'''urg]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''BLK'''
+| [[Burgenlandkreis]]
+| '''B'''urgen'''L'''and'''K'''reis
+| [[Sachsen-Anhalt]]
+|-
+| '''BM'''
+| [[Rhein-Erft-Kreis]]
+| [[Bergheim|'''B'''erghei'''M''']]
+| [[Nordrhein-Westfalen]]
+|-
+| rowspan="2" | '''BN'''
+| Stadt [[Bonn]]
+| rowspan="2" | '''B'''on'''N'''
+| rowspan="2" | [[Nordrhein-Westfalen]]
+|-
+| [[Diplomatenkennzeichen (Deutschland)|Diplomaten]]
+|-
+| '''BNA'''
+| [[Landkreis Leipzig]]
+| [[Borna|'''B'''or'''NA''']]
+| [[Sachsen]]
+|-
+| '''BO'''
+| Stadt [[Bochum]]
+| '''BO'''chum
+| [[Nordrhein-Westfalen]]
+|-
+| '''BÖ'''
+| [[Landkreis Börde]]
+| [[Magdeburger Börde|'''BÖ'''rde]]
+| [[Sachsen-Anhalt]]
+|-
+| '''BOH'''
+| [[Kreis Borken]]
+| [[Bocholt|'''BO'''c'''H'''olt]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''BOR'''
+| [[Kreis Borken]]
+| [[Borken|'''BOR'''ken]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''BOT'''
+| Stadt [[Bottrop]]
+| '''BOT'''trop
+| [[Nordrhein-Westfalen]]
+|-
+| '''BP'''
+| [[Bundespolizei (Deutschland)|Bundespolizei]]
+| '''B'''undes'''P'''olizei
+| bundesweit
+|-
+| '''BRA'''
+| [[Landkreis Wesermarsch]]
+| [[Brake (Unterweser)|'''BRA'''ke]]
+| [[Niedersachsen]]
+|-
+| '''BRB'''
+| Stadt [[Brandenburg an der Havel]]
+| '''BR'''anden'''B'''urg
+| [[Brandenburg]]
+|-
+| '''BRG'''
+| [[Landkreis Jerichower Land]]
+| [[Burg (bei Magdeburg)|'''B'''u'''RG''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''BRK'''
+| [[Landkreis Bad Kissingen]]
+| [[Bad Brückenau|'''BR'''üc'''K'''enau]]
+| [[Bayern]]
+|-
+| '''BRL'''
+| [[Landkreis Goslar]]
+| [[Braunlage|'''BR'''aun'''L'''age]]
+| [[Niedersachsen]]
+|-
+| '''BRV'''
+| [[Landkreis Rotenburg (Wümme)]]
+| [[Bremervörde|'''BR'''emer'''V'''örde]]
+| [[Niedersachsen]]
+|-
+| rowspan="2" | '''BS'''
+| Stadt [[Braunschweig]] (sonst)
+| rowspan="2" | '''B'''raun'''S'''chweig
+| rowspan="2" | [[Niedersachsen]]
+|-
+| [[Polizeidirektion Braunschweig]] (PD 100–9999)
+|-
+| '''BSK'''
+| [[Landkreis Oder-Spree]]
+| [[Beeskow|'''B'''ee'''SK'''ow]]
+| [[Brandenburg]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#B|BT]]'''
+| Stadt [[Bayreuth]]
+| rowspan="3" | '''B'''ayreu'''T'''h
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Bayreuth]]
+|-
+| [[Polizeipräsidium Oberfranken]] (P 8000–9999)
+|-
+| '''BTF'''
+| [[Landkreis Anhalt-Bitterfeld]]
+| [[Bitterfeld|'''B'''it'''T'''er'''F'''eld]]
+| [[Sachsen-Anhalt]]
+|-
+| '''BÜD'''
+| [[Wetteraukreis]]
+| [[Büdingen|'''BÜD'''ingen]]
+| [[Hessen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#B|BUL]]'''
+| [[Landkreis Amberg-Sulzbach]] (B, F und G 1–999)
+| rowspan="2" | [[Burglengenfeld|'''BU'''rg'''L'''engenfeld]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Schwandorf]] (sonst)
+|-
+| '''BÜR'''
+| [[Kreis Paderborn]]
+| [[Büren (Westfalen)|'''BÜR'''en]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''BÜS'''
+| Gemeinde [[Büsingen am Hochrhein]] (Gemeinde im [[Landkreis Konstanz]], deutsche Exklave in der Schweiz) (A und Z 1–999)
+| '''BÜS'''ingen
+| [[Baden-Württemberg]]
+|-
+| '''BÜZ'''
+| [[Landkreis Rostock]]
+| [[Bützow|'''BÜ'''t'''Z'''ow]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''BW'''
+| [[Wasserstraßen- und Schifffahrtsverwaltung des Bundes]]
+| '''B'''undes-'''W'''asserstraßen- und Schifffahrtsverwaltung
+| bundesweit
+|-
+| '''BWL'''
+| Baden-Württemberg, [[Landesregierung von Baden-Württemberg|Landesregierung]], [[Landtag von Baden-Württemberg|Landtag]] und Polizei<ref name="FZVO" />
+| '''B'''aden-'''W'''ürttembergischer '''L'''andtag
+| [[Baden-Württemberg]]
+|-
+| '''BYL'''
+| [[Bayerische Staatsregierung|Bayern, Landesregierung]] und [[Bayerischer Landtag|Landtag]]
+| '''B'''a'''Y'''erischer '''L'''andtag
+| [[Bayern]]
+|-
+| '''BZ'''
+| [[Landkreis Bautzen]]
+| [[Bautzen|'''B'''aut'''Z'''en]]
+| [[Sachsen]]
+|-
+|}
+
+=== C ===
+{| {{TabDKfz}}
+|-
+| '''C'''
+| Stadt [[Chemnitz]]
+| '''C'''hemnitz
+| [[Sachsen]]
+|-
+| '''CA'''
+| [[Landkreis Oberspreewald-Lausitz]]
+| [[Calau|'''CA'''lau]]
+| [[Brandenburg]]
+|-
+| '''CAS'''
+| [[Kreis Recklinghausen]]
+| [[Castrop-Rauxel|'''CAS'''trop]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''CB'''
+| Stadt [[Cottbus]]
+| '''C'''ott'''B'''us
+| [[Brandenburg]]
+|-
+| '''CE'''
+| [[Landkreis Celle]]
+| [[Celle|'''CE'''lle]]
+| [[Niedersachsen]]
+|-
+| '''CHA'''
+| [[Landkreis Cham]]
+| [[Cham (Oberpfalz)|'''CHA'''m]]
+| [[Bayern]]
+|-
+| '''CLP'''
+| [[Landkreis Cloppenburg]]
+| [[Cloppenburg|'''CL'''op'''P'''enburg]]
+| [[Niedersachsen]]
+|-
+| '''CLZ'''
+| [[Landkreis Goslar]]
+| [[Clausthal-Zellerfeld|'''CL'''austhal-'''Z'''ellerfeld]]
+| [[Niedersachsen]]
+|-
+| '''CO'''
+| Stadt [[Coburg]] und [[Landkreis Coburg]] ''(→ [[Zweckverband Zulassungsstelle Coburg]])''
+| '''CO'''burg
+| [[Bayern]]
+|-
+| '''COC'''
+| [[Landkreis Cochem-Zell]]
+| [[Cochem|'''COC'''hem]]
+| [[Rheinland-Pfalz]]
+|-
+| '''COE'''
+| [[Kreis Coesfeld]]
+| [[Coesfeld|'''COE'''sfeld]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''CR'''
+| [[Landkreis Schwäbisch Hall]]
+| [[Crailsheim|'''CR'''ailsheim]]
+| [[Baden-Württemberg]]
+|-
+| '''CUX'''
+| [[Landkreis Cuxhaven]]
+| [[Cuxhaven|'''CUX'''haven]]
+| [[Niedersachsen]]
+|-
+| '''CW'''
+| [[Landkreis Calw]]
+| [[Calw|'''C'''al'''W''']]
+| [[Baden-Württemberg]]
+|-
+|}
+
+=== D ===
+{| {{TabDKfz}}
+|-
+| '''D'''
+| Stadt [[Düsseldorf]]
+| '''D'''üsseldorf
+| [[Nordrhein-Westfalen]]
+|-
+| '''DA'''
+| [[Landkreis Darmstadt-Dieburg]] und Stadt [[Darmstadt]]
+| '''DA'''rmstadt
+| [[Hessen]]
+|-
+| '''DAH'''
+| [[Landkreis Dachau]]
+| [[Dachau|'''DA'''c'''H'''au]]
+| [[Bayern]]
+|-
+| '''DAN'''
+| [[Landkreis Lüchow-Dannenberg]]
+| [[Dannenberg (Elbe)|'''DAN'''nenberg]]
+| [[Niedersachsen]]
+|-
+| '''DAU'''
+| [[Landkreis Vulkaneifel]]
+| [[Daun|'''DAU'''n]]
+| [[Rheinland-Pfalz]]
+|-
+| '''DBR'''
+| [[Landkreis Rostock]]
+| [[Bad Doberan|'''D'''o'''B'''e'''R'''an]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| rowspan="2" | '''DD'''
+| Stadt [[Dresden]] (sonst)
+| rowspan="2" | '''D'''res'''D'''en
+| rowspan="2" | [[Sachsen]]
+|-
+| [[Polizei Sachsen]] (Q 1000–9999)
+|-
+| '''DE'''
+| Stadt [[Dessau-Roßlau]]
+| [[Dessau|'''DE'''ssau]]
+| [[Sachsen-Anhalt]]
+|-
+| '''DEG'''
+| [[Landkreis Deggendorf]]
+| [[Deggendorf|'''DEG'''gendorf]]
+| [[Bayern]]
+|-
+| '''DEL'''
+| Stadt [[Delmenhorst]]
+| '''DEL'''menhorst
+| [[Niedersachsen]]
+|-
+| '''DGF'''
+| [[Landkreis Dingolfing-Landau]]
+| [[Dingolfing|'''D'''in'''G'''ol'''F'''ing]]
+| [[Bayern]]
+|-
+| '''DH'''
+| [[Landkreis Diepholz]]
+| [[Diepholz|'''D'''iep'''H'''olz]]
+| [[Niedersachsen]]
+|-
+| '''DI'''
+| [[Landkreis Darmstadt-Dieburg]]
+| [[Dieburg|'''DI'''eburg]]
+| [[Hessen]]
+|-
+| '''DIL'''
+| [[Lahn-Dill-Kreis]] ohne die Stadt [[Wetzlar]]
+| [[Dillenburg|'''DIL'''lenburg]]
+| [[Hessen]]
+|-
+| '''DIN'''
+| [[Kreis Wesel]]
+| [[Dinslaken|'''DIN'''slaken]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''DIZ'''
+| [[Rhein-Lahn-Kreis]]
+| [[Diez|'''DI'''e'''Z''']]
+| [[Rheinland-Pfalz]]
+|-
+| '''DKB'''
+| [[Landkreis Ansbach]]
+| [[Dinkelsbühl|'''D'''in'''K'''els'''B'''ühl]]
+| [[Bayern]]
+|-
+| '''DL'''
+| [[Landkreis Mittelsachsen]]
+| [[Döbeln|'''D'''öbe'''L'''n]]
+| [[Sachsen]]
+|-
+| '''DLG'''
+| [[Landkreis Dillingen an der Donau]]
+| [[Dillingen an der Donau|'''D'''il'''L'''in'''G'''en]]
+| [[Bayern]]
+|-
+| '''DM'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Demmin|'''D'''em'''M'''in]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''DN'''
+| [[Kreis Düren]]
+| [[Düren|'''D'''üre'''N''']]
+| [[Nordrhein-Westfalen]]
+|-
+| '''DO'''
+| Stadt [[Dortmund]]
+| '''DO'''rtmund
+| [[Nordrhein-Westfalen]]
+|-
+| '''DON'''
+| [[Landkreis Donau-Ries]]
+| [[Donauwörth|'''DON'''auwörth]]
+| [[Bayern]]
+|-
+| '''DU'''
+| Stadt [[Duisburg]]
+| '''DU'''isburg
+| [[Nordrhein-Westfalen]]
+|-
+| '''DUD'''
+| [[Landkreis Göttingen]] ohne die Stadt [[Göttingen]]
+| [[Duderstadt|'''DUD'''erstadt]]
+| [[Niedersachsen]]
+|-
+| '''DÜW'''
+| [[Landkreis Bad Dürkheim]]
+| [[Bad Dürkheim|'''DÜ'''rkheim]] an der [[Deutsche Weinstraße|'''W'''einstraße]]
+| [[Rheinland-Pfalz]]
+|-
+| '''DW'''
+| [[Landkreis Sächsische Schweiz-Osterzgebirge]]
+| [[Dippoldiswalde|'''D'''ippoldis'''W'''alde]]
+| [[Sachsen]]
+|-
+| '''DZ'''
+| [[Landkreis Nordsachsen]]
+| [[Delitzsch|'''D'''elit'''Z'''sch]]
+| [[Sachsen]]
+|-
+|}
+
+=== E ===
+{| {{TabDKfz}}
+|-
+| '''E'''
+| Stadt [[Essen]]
+| '''E'''ssen
+| [[Nordrhein-Westfalen]]
+|-
+| '''EA'''
+| Stadt [[Eisenach]]
+| '''E'''isen'''A'''ch
+| [[Thüringen]]
+|-
+| '''EB'''
+| [[Landkreis Nordsachsen]]
+| [[Eilenburg|'''E'''ilen'''B'''urg]]
+| [[Sachsen]]
+|-
+| '''EBE'''
+| [[Landkreis Ebersberg]]
+| [[Ebersberg|'''EBE'''rsberg]]
+| [[Bayern]]
+|-
+| '''EBN'''
+| [[Landkreis Haßberge]]
+| [[Ebern|'''EB'''er'''N''']]
+| [[Bayern]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#E|EBS]]'''
+| [[Landkreis Bayreuth]] (N–Z 1–999)
+| rowspan="3" | [[Ebermannstadt|'''EB'''ermann'''S'''tadt]]
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Forchheim]] (sonst)
+|-
+| [[Landkreis Kulmbach]] (A–M 1–999)
+|-
+| '''ECK'''
+| [[Kreis Rendsburg-Eckernförde]]
+| [[Eckernförde|'''ECK'''ernförde]]
+| [[Schleswig-Holstein]]
+|-
+| '''ED'''
+| [[Landkreis Erding]]
+| [[Erding|'''E'''r'''D'''ing]]
+| [[Bayern]]
+|-
+| '''EE'''
+| [[Landkreis Elbe-Elster]]
+| [[Elbe|'''E'''lbe]], [[Schwarze Elster|'''E'''lster]]
+| [[Brandenburg]]
+|-
+| rowspan="2" | '''EF'''
+| Stadt [[Erfurt]] (sonst)
+| rowspan="2" | '''E'''r'''F'''urt
+| rowspan="2" | [[Thüringen]]
+|-
+| [[Thüringer Polizei]] (LP 1000–9999)
+|-
+| '''EG'''
+| [[Landkreis Rottal-Inn]]
+| [[Eggenfelden|'''EG'''genfelden]]
+| [[Bayern]]
+|-
+| '''EH'''
+| [[Landkreis Oder-Spree]]
+| [[Eisenhüttenstadt|'''E'''isen'''H'''üttenstadt]]
+| [[Brandenburg]]
+|-
+| '''EI'''
+| [[Landkreis Eichstätt]]
+| [[Eichstätt|'''EI'''chstätt]]
+| [[Bayern]]
+|-
+| '''EIC'''
+| [[Landkreis Eichsfeld]]
+| [[Eichsfeld|'''EIC'''hsfeld]]
+| [[Thüringen]]
+|-
+| '''EIL'''
+| [[Landkreis Mansfeld-Südharz]]
+| [[Lutherstadt Eisleben|'''EI'''s'''L'''eben]]
+| [[Sachsen-Anhalt]]
+|-
+| '''EIN'''
+| [[Landkreis Northeim]]
+| [[Einbeck|'''EIN'''beck]]
+| [[Niedersachsen]]
+|-
+| '''EIS'''
+| [[Saale-Holzland-Kreis]]
+| [[Eisenberg (Thüringen)|'''EIS'''enberg]]
+| [[Thüringen]]
+|-
+| '''EL'''
+| [[Landkreis Emsland]]
+| [[Emsland|'''E'''ms'''L'''and]]
+| [[Niedersachsen]]
+|-
+| '''EM'''
+| [[Landkreis Emmendingen]]
+| [[Emmendingen|'''EM'''mendingen]]
+| [[Baden-Württemberg]]
+|-
+| '''EMD'''
+| Stadt [[Emden]]
+| '''EMD'''en
+| [[Niedersachsen]]
+|-
+| '''EMS'''
+| [[Rhein-Lahn-Kreis]]
+| [[Bad Ems|'''EMS''']]
+| [[Rheinland-Pfalz]]
+|-
+| '''EN'''
+| [[Ennepe-Ruhr-Kreis]]
+| [[Ennepe|'''EN'''nepe]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''ER'''
+| Stadt [[Erlangen]]
+| '''ER'''langen
+| [[Bayern]]
+|-
+| '''ERB'''
+| [[Odenwaldkreis]]
+| [[Erbach (Odenwald)|'''ERB'''ach]]
+| [[Hessen]]
+|-
+| '''ERH'''
+| [[Landkreis Erlangen-Höchstadt]]
+| [[Erlangen|'''ER'''langen]], [[Höchstadt|'''H'''öchstadt]]
+| [[Bayern]]
+|-
+| '''ERK'''
+| [[Kreis Heinsberg]]
+| [[Erkelenz|'''ERK'''elenz]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''ERZ'''
+| [[Erzgebirgskreis]]
+| [[Erzgebirge|'''ERZ'''gebirge]]
+| [[Sachsen]]
+|-
+| '''ES'''
+| [[Landkreis Esslingen]]
+| [[Esslingen am Neckar|'''ES'''slingen]]
+| [[Baden-Württemberg]]
+|-
+| rowspan="4" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#E|ESB]]'''
+| [[Landkreis Amberg-Sulzbach]] (B, F, G, I, O und Q 1–999)
+| rowspan="4" | [[Eschenbach in der Oberpfalz|'''ES'''chen'''B'''ach]]
+| rowspan="4" | [[Bayern]]
+|-
+| [[Landkreis Bayreuth]] (AT, BT, CT, DT, ... YT und ZT 1–99)
+|-
+| [[Landkreis Neustadt an der Waldnaab]] (sonst)
+|-
+| [[Landkreis Nürnberger Land]] (N 1–999)
+|-
+| '''ESW'''
+| [[Werra-Meißner-Kreis]]
+| [[Eschwege|'''ES'''ch'''W'''ege]]
+| [[Hessen]]
+|-
+| '''EU'''
+| [[Kreis Euskirchen]]
+| [[Euskirchen|'''EU'''skirchen]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''EW'''
+| [[Landkreis Barnim]]
+| [[Eberswalde|'''E'''bers'''W'''alde]]
+| [[Brandenburg]]
+|-
+|}
+
+=== F ===
+{| {{TabDKfz}}
+|-
+| '''F'''
+| Stadt [[Frankfurt am Main]]
+| '''F'''rankfurt
+| [[Hessen]]
+|-
+| '''FB'''
+| [[Wetteraukreis]]
+| [[Friedberg (Hessen)|'''F'''ried'''B'''erg]]
+| [[Hessen]]
+|-
+| '''FD'''
+| [[Landkreis Fulda]]
+| [[Fulda|'''F'''ul'''D'''a]]
+| [[Hessen]]
+|-
+| '''FDB'''
+| [[Landkreis Aichach-Friedberg]]
+| [[Friedberg (Bayern)|'''F'''rie'''DB'''erg]]
+| [[Bayern]]
+|-
+| '''FDS'''
+| [[Landkreis Freudenstadt]]
+| [[Freudenstadt|'''F'''reu'''D'''en'''S'''tadt]]
+| [[Baden-Württemberg]]
+|-
+| '''FEU'''
+| [[Landkreis Ansbach]]
+| [[Feuchtwangen|'''FEU'''chtwangen]]
+| [[Bayern]]
+|-
+| '''FF'''
+| Stadt [[Frankfurt (Oder)]]
+| '''F'''rank'''F'''urt
+| [[Brandenburg]]
+|-
+| '''FFB'''
+| [[Landkreis Fürstenfeldbruck]]
+| [[Fürstenfeldbruck|'''F'''ürsten'''F'''eld'''B'''ruck]]
+| [[Bayern]]
+|-
+| '''FG'''
+| [[Landkreis Mittelsachsen]]
+| [[Freiberg|'''F'''reiber'''G''']]
+| [[Sachsen]]
+|-
+| '''FI'''
+| [[Landkreis Elbe-Elster]]
+| [[Finsterwalde|'''FI'''nsterwalde]]
+| [[Brandenburg]]
+|-
+| '''FKB'''
+| [[Landkreis Waldeck-Frankenberg]]
+| [[Frankenberg (Eder)|'''F'''ran'''K'''en'''B'''erg]]
+| [[Hessen]]
+|-
+| '''FL'''
+| Stadt [[Flensburg]]
+| '''FL'''ensburg
+| [[Schleswig-Holstein]]
+|-
+| '''FLÖ'''
+| [[Landkreis Mittelsachsen]]
+| [[Flöha|'''FLÖ'''ha]]
+| [[Sachsen]]
+|-
+| '''FN'''
+| [[Bodenseekreis]]
+| [[Friedrichshafen|'''F'''riedrichshafe'''N''']]
+| [[Baden-Württemberg]]
+|-
+| '''FO'''
+| [[Landkreis Forchheim]]
+| [[Forchheim|'''FO'''rchheim]]
+| [[Bayern]]
+|-
+| '''FOR'''
+| [[Landkreis Spree-Neiße]]
+| [[Forst (Lausitz)|'''FOR'''st]]
+| [[Brandenburg]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#F|FR]]'''
+| Stadt [[Freiburg im Breisgau]] (AA–MZ 100–999 und NA–ZZ 100–9999)*
+| rowspan="2" | '''FR'''eiburg
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Landkreis Breisgau-Hochschwarzwald]] (sonst)*
+|-
+| '''FRG'''
+| [[Landkreis Freyung-Grafenau]]
+| [[Freyung|'''FR'''eyung]], [[Grafenau (Niederbayern)|'''G'''rafenau]]
+| [[Bayern]]
+|-
+| '''FRI'''
+| [[Landkreis Friesland]]
+| [[Friesland|'''FRI'''esland]]
+| [[Niedersachsen]]
+|-
+| '''FRW'''
+| [[Landkreis Märkisch-Oderland]]
+| [[Bad Freienwalde (Oder)|'''FR'''eien'''W'''alde]]
+| [[Brandenburg]]
+|-
+| '''FS'''
+| [[Landkreis Freising]]
+| [[Freising|'''F'''rei'''S'''ing]]
+| [[Bayern]]
+|-
+| '''FT'''
+| Stadt [[Frankenthal (Pfalz)]]
+| '''F'''ranken'''T'''hal
+| [[Rheinland-Pfalz]]
+|-
+| '''FTL'''
+| [[Landkreis Sächsische Schweiz-Osterzgebirge]]
+| [[Freital|'''F'''rei'''T'''a'''L''']]
+| [[Sachsen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#F|FÜ]]'''
+| Stadt [[Fürth]] (AA–ZZ 100–999)*
+| rowspan="2" | '''FÜ'''rth
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Fürth]] (sonst)*
+|-
+| '''FÜS'''
+| [[Landkreis Ostallgäu]]
+| [[Füssen|'''FÜS'''sen]]
+| [[Bayern]]
+|-
+| '''FW'''
+| [[Landkreis Oder-Spree]]
+| [[Fürstenwalde/Spree|'''F'''ürsten'''W'''alde]]
+| [[Brandenburg]]
+|-
+| '''FZ'''
+| [[Schwalm-Eder-Kreis]]
+| [[Fritzlar|'''F'''rit'''Z'''lar]]
+| [[Hessen]]
+|-
+|}
+
+=== G ===
+{| {{TabDKfz}}
+|-
+| '''G'''
+| Stadt [[Gera]]
+| '''G'''era
+| [[Thüringen]]
+|-
+| '''GA'''
+| [[Altmarkkreis Salzwedel]]
+| [[Gardelegen|'''GA'''rdelegen]]
+| [[Sachsen-Anhalt]]
+|-
+| '''GAN'''
+| [[Landkreis Northeim]]
+| [[Bad Gandersheim|'''GAN'''dersheim]]
+| [[Niedersachsen]]
+|-
+| '''GAP'''
+| [[Landkreis Garmisch-Partenkirchen]]
+| [[Garmisch-Partenkirchen|'''GA'''rmisch-'''P'''artenkirchen]]
+| [[Bayern]]
+|-
+| '''GC'''
+| [[Landkreis Zwickau]]
+| [[Glauchau|'''G'''lau'''C'''hau]]
+| [[Sachsen]]
+|-
+| '''GD'''
+| [[Ostalbkreis]]
+| [[Schwäbisch Gmünd|'''G'''mün'''D''']]
+| [[Baden-Württemberg]]
+|-
+| '''GDB'''
+| [[Landkreis Nordwestmecklenburg]]
+| [[Gadebusch|'''G'''a'''D'''e'''B'''usch]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''GE'''
+| Stadt [[Gelsenkirchen]]
+| '''GE'''lsenkirchen
+| [[Nordrhein-Westfalen]]
+|-
+| '''GEL'''
+| [[Kreis Kleve]]
+| [[Geldern|'''GEL'''dern]]
+| [[Nordrhein-Westfalen]]
+|-
+
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#G|GEO]]'''
+| [[Landkreis Haßberge]] (A und B 1000–9999)
+| rowspan="2" | [[Gerolzhofen|'''GE'''r'''O'''lzhofen]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Schweinfurt]] (sonst)
+|-
+| '''GER'''
+| [[Landkreis Germersheim]]
+| [[Germersheim|'''GER'''mersheim]]
+| [[Rheinland-Pfalz]]
+|-
+| '''GF'''
+| [[Landkreis Gifhorn]]
+| [[Gifhorn|'''G'''i'''F'''horn]]
+| [[Niedersachsen]]
+|-
+| '''GG'''
+| [[Kreis Groß-Gerau]]
+| [[Groß-Gerau|'''G'''roß-'''G'''erau]]
+| [[Hessen]]
+|-
+| '''GHA'''
+| [[Landkreis Leipzig]]
+| [[Geithain|'''G'''eit'''HA'''in]]
+| [[Sachsen]]
+|-
+| '''GHC'''
+| [[Landkreis Wittenberg]]
+| [[Gräfenhainichen|'''G'''räfen'''H'''aini'''C'''hen]]
+| [[Sachsen-Anhalt]]
+|-
+| '''GI'''
+| [[Landkreis Gießen]]
+| [[Gießen|'''GI'''eßen]]
+| [[Hessen]]
+|-
+| '''GK'''
+| [[Kreis Heinsberg]]
+| [[Geilenkirchen|'''G'''eilen'''K'''irchen]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''GL'''
+| [[Rheinisch-Bergischer Kreis]]
+| [[Bergisch Gladbach|'''GL'''adbach]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''GLA'''
+| [[Kreis Recklinghausen]]
+| [[Gladbeck|'''GLA'''dbeck]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''GM'''
+| [[Oberbergischer Kreis]]
+| [[Gummersbach|'''G'''um'''M'''ersbach]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''GMN'''
+| [[Landkreis Vorpommern-Rügen]] ohne die Stadt [[Stralsund]]
+| [[Grimmen|'''G'''rim'''M'''e'''N''']]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''GN'''
+| [[Main-Kinzig-Kreis]] ohne die Stadt [[Hanau]]
+| [[Gelnhausen|'''G'''elnhause'''N''']]
+| [[Hessen]]
+|-
+| '''GNT'''
+| [[Landkreis Jerichower Land]]
+| [[Genthin|'''G'''e'''NT'''hin]]
+| [[Sachsen-Anhalt]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#G|GÖ]]'''
+| [[Landkreis Göttingen]]
+* Stadt [[Göttingen]] (sonst)*
+* übriger Landkreis (AA–ZZ 100–9999 ohne PD)*
+| rowspan="2" | '''GÖ'''ttingen
+| rowspan="2" | [[Niedersachsen]]
+|-
+| Polizeidirektion Göttingen (PD 100–9999)
+|-
+| '''GOA'''
+| [[Rhein-Hunsrück-Kreis]]
+| [[Sankt Goar|'''GOA'''r]]
+| [[Rheinland-Pfalz]]
+|-
+| '''GOH'''
+| [[Rhein-Lahn-Kreis]]
+| [[Sankt Goarshausen|'''GO'''ars'''H'''ausen]]
+| [[Rheinland-Pfalz]]
+|-
+| '''GP'''
+| [[Landkreis Göppingen]]
+| [[Göppingen|'''G'''öp'''P'''ingen]]
+| [[Baden-Württemberg]]
+|-
+| '''GR'''
+| [[Landkreis Görlitz]]
+| [[Görlitz|'''G'''ö'''R'''litz]]
+| [[Sachsen]]
+|-
+| '''GRA'''
+| [[Landkreis Freyung-Grafenau]]
+| [[Grafenau (Niederbayern)|'''GRA'''fenau]]
+| [[Bayern]]
+|-
+| '''GRH'''
+| [[Landkreis Meißen]]
+| [[Großenhain|'''GR'''oßen'''H'''ain]]
+| [[Sachsen]]
+|-
+| '''GRI'''
+| [[Landkreis Rottal-Inn]] (B, I, O und Q 100–999)
+| [[Bad Griesbach im Rottal|'''GRI'''esbach]]
+| [[Bayern]]
+|-
+| '''GRM'''
+| [[Landkreis Leipzig]]
+| [[Grimma|'''GR'''im'''M'''a]]
+| [[Sachsen]]
+|-
+| '''GRZ'''
+| [[Landkreis Greiz]]
+| [[Greiz|'''GR'''ei'''Z''']]
+| [[Thüringen]]
+|-
+| '''GS'''
+| [[Landkreis Goslar]]
+| [[Goslar|'''G'''o'''S'''lar]]
+| [[Niedersachsen]]
+|-
+| '''GT'''
+| [[Kreis Gütersloh]]
+| [[Gütersloh|'''G'''ü'''T'''ersloh]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''GTH'''
+| [[Landkreis Gotha]]
+| [[Gotha|'''G'''o'''TH'''a]]
+| [[Thüringen]]
+|-
+| '''GÜ'''
+| [[Landkreis Rostock]]
+| [[Güstrow|'''GÜ'''strow]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''GUB'''
+| [[Landkreis Spree-Neiße]]
+| [[Guben|'''GUB'''en]]
+| [[Brandenburg]]
+|-
+| '''GUN'''
+| [[Landkreis Weißenburg-Gunzenhausen]]
+| [[Gunzenhausen|'''GUN'''zenhausen]]
+| [[Bayern]]
+|-
+| '''GV'''
+| [[Rhein-Kreis Neuss]]
+| [[Grevenbroich|'''G'''re'''V'''enbroich]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''GVM'''
+| [[Landkreis Nordwestmecklenburg]]
+| [[Grevesmühlen|'''G'''re'''V'''es'''M'''ühlen]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''GW'''
+| [[Landkreis Vorpommern-Greifswald]] ohne die Stadt [[Greifswald]]
+| '''G'''reifs'''W'''ald
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''GZ'''
+| [[Landkreis Günzburg]]
+| [[Günzburg|'''G'''ün'''Z'''burg]]
+| [[Bayern]]
+|-
+|}
+
+=== H ===
+{| {{TabDKfz}}
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|H]]'''
+| [[Region Hannover]]
+* Stadt [[Hannover]] (AA–ZZ 100–999, BA–BZ und FA–GZ 1000–9999)*
+* übrige Region (sonst)*
+| rowspan="2" | '''H'''annover
+| rowspan="2" | [[Niedersachsen]]
+|-
+| [[Polizei Niedersachsen]]
+* Zentrale Polizeidirektion Niedersachsen (ZD 100–999)
+* [[Polizeidirektion Hannover]] (PD 100–999)
+|-
+| '''HA'''
+| Stadt [[Hagen]]
+| '''HA'''gen
+| [[Nordrhein-Westfalen]]
+|-
+| '''HAB'''
+| [[Landkreis Bad Kissingen]]
+| [[Hammelburg|'''HA'''mmel'''B'''urg]]
+| [[Bayern]]
+|-
+| '''HAL'''
+| Stadt [[Halle (Saale)]]
+| '''HAL'''le
+| [[Sachsen-Anhalt]]
+|-
+| '''HAM'''
+| Stadt [[Hamm]]
+| '''HAM'''m
+| [[Nordrhein-Westfalen]]
+|-
+| '''HAS'''
+| [[Landkreis Haßberge]]
+| [[Haßfurt|'''HAS'''sfurt]]
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|HB]]'''
+| Stadt [[Bremen]], Senat und [[Bremische Bürgerschaft|Bürgerschaft]] (sonst)
+| rowspan="2" | [[Hansestadt|'''H'''ansestadt]] '''B'''remen
+| rowspan="2" | [[Freie Hansestadt Bremen|Bremen]]
+|-
+| Stadt [[Bremerhaven]] (A–Z 1000–9999)
+|-
+| '''HBN'''
+| [[Landkreis Hildburghausen]]
+| [[Hildburghausen|'''H'''ild'''B'''urghause'''N''']]
+| [[Thüringen]]
+|-
+| '''HBS'''
+| [[Landkreis Harz]]
+| [[Halberstadt|'''H'''al'''B'''er'''S'''tadt]]
+| [[Sachsen-Anhalt]]
+|-
+| '''HC'''
+| [[Landkreis Mittelsachsen]]
+| [[Hainichen|'''H'''aini'''C'''hen]]
+| [[Sachsen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|HCH]]'''
+| [[Landkreis Freudenstadt]] (YQ, QY, YV, VY und ZQ 100 bis 999)
+| rowspan="2" | [[Hechingen|'''H'''e'''CH'''ingen]]
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Zollernalbkreis]] (sonst)
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|HD]]'''
+| Stadt [[Heidelberg]] (sonst)*
+| rowspan="2" | '''H'''ei'''D'''elberg
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Rhein-Neckar-Kreis]] (AA–ZZ 100–9999)*
+|-
+| '''HDH'''
+| [[Landkreis Heidenheim]]
+| [[Heidenheim an der Brenz|'''H'''ei'''D'''en'''H'''eim]]
+| [[Baden-Württemberg]]
+|-
+| '''HDL'''
+| [[Landkreis Börde]]
+| [[Haldensleben|'''H'''al'''D'''ens'''L'''eben]]
+| [[Sachsen-Anhalt]]
+|-
+| '''HE'''
+| [[Landkreis Helmstedt]]
+| [[Helmstedt|'''HE'''lmstedt]]
+| [[Niedersachsen]]
+|-
+| '''HEB'''
+| [[Landkreis Nürnberger Land]]
+| [[Hersbruck|'''HE'''rs'''B'''ruck]]
+| [[Bayern]]
+|-
+| '''HEF'''
+| [[Landkreis Hersfeld-Rotenburg]]
+| [[Bad Hersfeld|'''HE'''rs'''F'''eld]]
+| [[Hessen]]
+|-
+| '''HEI'''
+| [[Kreis Dithmarschen]]
+| [[Heide (Holstein)|'''HEI'''de]]
+| [[Schleswig-Holstein]]
+|-
+| '''HEL'''
+| [[Hessische Landesregierung|Hessen, Landesregierung]] und [[Hessischer Landtag|Landtag]]
+| '''HE'''ssischer '''L'''andtag
+| [[Hessen]]
+|-
+| '''HER'''
+| Stadt [[Herne]]
+| '''HER'''ne
+| [[Nordrhein-Westfalen]]
+|-
+| '''HET'''
+| [[Landkreis Mansfeld-Südharz]]
+| [[Hettstedt|'''HET'''tstedt]]
+| [[Sachsen-Anhalt]]
+|-
+| '''HF'''
+| [[Kreis Herford]]
+| [[Herford|'''H'''er'''F'''ord]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''HG'''
+| [[Hochtaunuskreis]]
+| [[Bad Homburg vor der Höhe|'''H'''ombur'''G''']]
+| [[Hessen]]
+|-
+| '''HGN'''
+| [[Landkreis Ludwigslust-Parchim]]
+| [[Hagenow|'''H'''a'''G'''e'''N'''ow]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''HGW'''
+| Stadt [[Greifswald]] ([[Liste der kreisangehörigen Städte mit Sonderstatus in Deutschland|große kreisangehörige Stadt]] im [[Landkreis Vorpommern-Greifswald]])
+| [[Hansestadt|'''H'''ansestadt]] '''G'''reifs'''W'''ald
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''HH'''
+| [[Hamburg|Freie und Hansestadt Hamburg]], Senat und [[Hamburgische Bürgerschaft|Bürgerschaft]]
+| [[Hansestadt|'''H'''ansestadt]] '''H'''amburg
+| [[Hamburg]]
+|-
+| '''HHM'''
+| [[Burgenlandkreis]]
+| [[Hohenmölsen|'''H'''o'''H'''en'''M'''ölsen]]
+| [[Sachsen-Anhalt]]
+|-
+| '''HI'''
+| [[Landkreis Hildesheim]]
+| [[Hildesheim|'''HI'''ldesheim]]
+| [[Niedersachsen]]
+|-
+| '''HIG'''
+| [[Landkreis Eichsfeld]]
+| [[Heilbad Heiligenstadt|'''H'''eil'''IG'''enstadt]]
+| [[Thüringen]]
+|-
+| '''HIP'''
+| [[Landkreis Roth]]
+| [[Hilpoltstein|'''HI'''l'''P'''oltstein]]
+| [[Bayern]]
+|-
+| '''HK'''
+| [[Landkreis Heidekreis]]
+| [[Lüneburger Heide|'''H'''eide]]'''K'''reis
+| [[Niedersachsen]]
+|-
+| '''HL'''
+| Stadt [[Lübeck]]
+| [[Hansestadt|'''H'''ansestadt]] '''L'''übeck
+| [[Schleswig-Holstein]]
+|-
+| '''HM'''
+| [[Landkreis Hameln-Pyrmont]]
+| [[Hameln|'''H'''a'''M'''eln]]
+| [[Niedersachsen]]
+|-
+| '''HMÜ'''
+| [[Landkreis Göttingen]] ohne die Stadt [[Göttingen]]
+| [[Hann. Münden|'''H'''ann. '''MÜ'''nden]]
+| [[Niedersachsen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|HN]]'''
+| Stadt [[Heilbronn]] (sonst)*
+| rowspan="2" | '''H'''eilbron'''N'''
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Landkreis Heilbronn]] (AA–MZ 100–9999 und NA–ZZ 100–999)*
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|HO]]'''
+| Stadt [[Hof (Saale)|Hof]] (sonst)*
+| rowspan="2" | '''HO'''f
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Hof]] (AA–ZZ 100–9999)*
+|-
+| '''HOG'''
+| [[Landkreis Kassel]]
+| [[Hofgeismar|'''HO'''f'''G'''eismar]]
+| [[Hessen]]
+|-
+| '''HOH'''
+| [[Landkreis Haßberge]]
+| [[Hofheim in Unterfranken|'''HO'''f'''H'''eim]]
+| [[Bayern]]
+|-
+| '''HOL'''
+| [[Landkreis Holzminden]]
+| [[Holzminden|'''HOL'''zminden]]
+| [[Niedersachsen]]
+|-
+| '''HOM'''
+| [[Saarpfalz-Kreis]] ohne die Stadt [[St. Ingbert]]
+| [[Homburg|'''HOM'''burg]]
+| [[Saarland]]
+|-
+| '''HOR'''
+| [[Landkreis Freudenstadt]]
+| [[Horb am Neckar|'''HOR'''b]]
+| [[Baden-Württemberg]]
+|-
+| '''HÖS'''
+| [[Landkreis Erlangen-Höchstadt]]
+| [[Höchstadt an der Aisch|'''HÖ'''ch'''S'''tadt]]
+| [[Bayern]]
+|-
+| '''HOT'''
+| [[Landkreis Zwickau]]
+| [[Hohenstein-Ernstthal|'''HO'''hens'''T'''ein]]
+| [[Sachsen]]
+|-
+| '''HP'''
+| [[Kreis Bergstraße]]
+| [[Heppenheim (Bergstraße)|'''H'''ep'''P'''enheim]]
+| [[Hessen]]
+|-
+| '''HR'''
+| [[Schwalm-Eder-Kreis]]
+| [[Homberg (Efze)|'''H'''ombe'''R'''g]]
+| [[Hessen]]
+|-
+| '''HRO'''
+| Stadt [[Rostock]]
+| [[Hansestadt|'''H'''ansestadt]] '''RO'''stock
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''HS'''
+| [[Kreis Heinsberg]]
+| [[Heinsberg|'''H'''ein'''S'''berg]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''HSK'''
+| [[Hochsauerlandkreis]]
+| '''H'''och'''S'''auerland'''K'''reis
+| [[Nordrhein-Westfalen]]
+|-
+| '''HST'''
+| Stadt [[Stralsund]] ([[Liste der kreisangehörigen Städte mit Sonderstatus in Deutschland|große kreisangehörige Stadt]] im [[Landkreis Vorpommern-Rügen]])
+| [[Hansestadt|'''H'''ansestadt]] '''ST'''ralsund
+| [[Mecklenburg-Vorpommern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#H|HU]]'''
+| Stadt [[Hanau]] ([[Liste der kreisangehörigen Städte mit Sonderstatus in Deutschland|Sonderstatusstadt]] im [[Main-Kinzig-Kreis]])
+| rowspan="2" | '''H'''ana'''U'''
+| rowspan="2" | [[Hessen]]
+|-
+| [[Main-Kinzig-Kreis]] (übriges Kreisgebiet)
+|-
+| '''HV'''
+| [[Landkreis Stendal]]
+| [[Havelberg|'''H'''a'''V'''elberg]]
+| [[Sachsen-Anhalt]]
+|-
+| '''HVL'''
+| [[Landkreis Havelland]]
+| [[Havelland|'''H'''a'''V'''el'''L'''and]]
+| [[Brandenburg]]
+|-
+| '''HWI'''
+| Stadt [[Wismar]] ([[Liste der kreisangehörigen Städte mit Sonderstatus in Deutschland|große kreisangehörige Stadt]] im [[Landkreis Nordwestmecklenburg]])
+| [[Hansestadt|'''H'''ansestadt]] '''WI'''smar
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''HX'''
+| [[Kreis Höxter]]
+| [[Höxter|'''H'''ö'''X'''ter]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''HY'''
+| [[Landkreis Bautzen]]
+| [[Hoyerswerda|'''H'''o'''Y'''erswerda]]
+| [[Sachsen]]
+|-
+| '''HZ'''
+| [[Landkreis Harz]]
+| [[Harz (Mittelgebirge)|'''H'''ar'''Z''']]
+| [[Sachsen-Anhalt]]
+|-
+|}
+
+=== I ===
+{| {{TabDKfz}}
+|-
+| '''IGB'''
+| Stadt [[St. Ingbert]] ([[Mittelstadt]] im [[Saarpfalz-Kreis]])
+| '''I'''n'''GB'''ert
+| [[Saarland]]
+|-
+| '''IK'''
+| [[Ilm-Kreis]]
+| [[Ilm (Saale)|'''I'''lm]]-'''K'''reis
+| [[Thüringen]]
+|-
+| '''IL'''
+| [[Ilm-Kreis]]
+| [[Ilmenau|'''IL'''menau]]
+| [[Thüringen]]
+|-
+| '''ILL'''
+| [[Landkreis Neu-Ulm]]
+| [[Illertissen|'''ILL'''ertissen]]
+| [[Bayern]]
+|-
+| rowspan="2" | '''IN'''
+| Stadt [[Ingolstadt]] (sonst)
+| rowspan="2" | '''IN'''golstadt
+| rowspan="2" | [[Bayern]]
+|-
+| [[Polizeipräsidium Oberbayern Nord]] (PP 1000–9999)
+|-
+| '''IZ'''
+| [[Kreis Steinburg]]
+| [[Itzehoe|'''I'''t'''Z'''ehoe]]
+| [[Schleswig-Holstein]]
+|-
+|}
+
+=== J ===
+{| {{TabDKfz}}
+|-
+| '''J'''
+| Stadt [[Jena]]
+| '''J'''ena
+| [[Thüringen]]
+|-
+| '''JE'''
+| [[Landkreis Wittenberg]]
+| [[Jessen (Elster)|'''JE'''ssen]]
+| [[Sachsen-Anhalt]]
+|-
+| '''JL'''
+| [[Landkreis Jerichower Land]]
+| [[Jerichow|'''J'''erichower]] '''L'''and
+| [[Sachsen-Anhalt]]
+|-
+| '''JÜL'''
+| [[Kreis Düren]]
+| [[Jülich|'''JÜL'''ich]]
+| [[Nordrhein-Westfalen]]
+|-
+|}
+
+=== K ===
+{| {{TabDKfz}}
+|-
+| '''K'''
+| Stadt [[Köln]]
+| '''K'''öln
+| [[Nordrhein-Westfalen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#K|KA]]'''
+| Stadt [[Karlsruhe]] (AA–MZ 100–999 und NA–ZZ 100–9999)*
+| rowspan="2" | '''KA'''rlsruhe
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Landkreis Karlsruhe]] (sonst)*
+|-
+| '''KB'''
+| [[Landkreis Waldeck-Frankenberg]]
+| [[Korbach|'''K'''or'''B'''ach]]
+| [[Hessen]]
+|-
+| '''KC'''
+| [[Landkreis Kronach]]
+| [[Kronach|'''K'''rona'''C'''h]]
+| [[Bayern]]
+|-
+| rowspan="2" | '''KE'''
+| Stadt [[Kempten (Allgäu)]] (sonst)
+| rowspan="2" | '''KE'''mpten
+| rowspan="2" | [[Bayern]]
+|-
+| [[Polizeipräsidium Schwaben Süd/West]] (PP 100–999)
+|-
+| '''KEH'''
+| [[Landkreis Kelheim]]
+| [[Kelheim|'''KE'''l'''H'''eim]]
+| [[Bayern]]
+|-
+| '''KEL'''
+| [[Ortenaukreis]]
+| [[Kehl|'''KE'''h'''L''']]
+| [[Baden-Württemberg]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#K|KEM]]'''
+| [[Landkreis Bayreuth]] (AT, BT, CT, DT, ... YT und ZT 1–99)
+| rowspan="2" | [[Kemnath|'''KEM'''nath]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Tirschenreuth]] (sonst)
+|-
+| '''KF'''
+| Stadt [[Kaufbeuren]]
+| '''K'''au'''F'''beuren
+| [[Bayern]]
+|-
+| '''KG'''
+| [[Landkreis Bad Kissingen]]
+| [[Bad Kissingen|'''K'''issin'''G'''en]]
+| [[Bayern]]
+|-
+| '''KH'''
+| [[Landkreis Bad Kreuznach]]
+| [[Bad Kreuznach|'''K'''reuznac'''H''']]
+| [[Rheinland-Pfalz]]
+|-
+| '''KI'''
+| Stadt [[Kiel]]
+| '''KI'''el
+| [[Schleswig-Holstein]]
+|-
+| '''KIB'''
+| [[Donnersbergkreis]]
+| [[Kirchheimbolanden|'''KI'''rchheim'''B'''olanden]]
+| [[Rheinland-Pfalz]]
+|-
+| '''KK'''
+| [[Kreis Viersen]]
+| [[Kempen|'''K'''empen]], [[Krefeld|'''K'''refeld]]
+| [[Nordrhein-Westfalen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#K|KL]]'''
+| Stadt [[Kaiserslautern]] (sonst)*
+| rowspan="2" | '''K'''aisers'''L'''autern
+| rowspan="2" | [[Rheinland-Pfalz]]
+|-
+| [[Landkreis Kaiserslautern]] (AA–ZZ 100–999)*
+|-
+| '''KLE'''
+| [[Kreis Kleve]]
+| [[Kleve|'''KLE'''ve]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''KLZ'''
+| [[Altmarkkreis Salzwedel]]
+| [[Klötze|'''KL'''öt'''Z'''e]]
+| [[Sachsen-Anhalt]]
+|-
+| '''KM'''
+| [[Landkreis Bautzen]]
+| [[Kamenz|'''K'''a'''M'''enz]]
+| [[Sachsen]]
+|-
+| '''KN'''
+| [[Landkreis Konstanz]] ohne die Gemeinde [[Büsingen am Hochrhein]]
+| [[Konstanz|'''K'''o'''N'''stanz]]
+| [[Baden-Württemberg]]
+|-
+| '''KO'''
+| Stadt [[Koblenz]]
+| '''KO'''blenz
+| [[Rheinland-Pfalz]]
+|-
+| '''KÖN'''
+| [[Landkreis Rhön-Grabfeld]]
+| [[Bad Königshofen im Grabfeld|'''KÖN'''igshofen]]
+| [[Bayern]]
+|-
+| '''KÖT'''
+| [[Landkreis Anhalt-Bitterfeld]]
+| [[Köthen (Anhalt)|'''KÖT'''hen]]
+| [[Sachsen-Anhalt]]
+|-
+| '''KÖZ'''
+| [[Landkreis Cham]]
+| [[Bad Kötzting|'''KÖ'''t'''Z'''ting]]
+| [[Bayern]]
+|-
+| '''KR'''
+| Stadt [[Krefeld]]
+| '''KR'''efeld
+| [[Nordrhein-Westfalen]]
+|-
+| '''KRU'''
+| [[Landkreis Günzburg]]
+| [[Krumbach (Schwaben)|'''KRU'''mbach]]
+| [[Bayern]]
+|-
+| '''KS'''
+| [[Landkreis Kassel]] und Stadt [[Kassel]]
+| '''K'''as'''S'''el
+| [[Hessen]]
+|-
+| '''KT'''
+| [[Landkreis Kitzingen]]
+| [[Kitzingen|'''K'''i'''T'''zingen]]
+| [[Bayern]]
+|-
+| '''KU'''
+| [[Landkreis Kulmbach]]
+| [[Kulmbach|'''KU'''lmbach]]
+| [[Bayern]]
+|-
+| '''KÜN'''
+| [[Hohenlohekreis]]
+| [[Künzelsau|'''KÜN'''zelsau]]
+| [[Baden-Württemberg]]
+|-
+| '''KUS'''
+| [[Landkreis Kusel]]
+| [[Kusel|'''KUS'''el]]
+| [[Rheinland-Pfalz]]
+|-
+| '''KW'''
+| [[Landkreis Dahme-Spreewald]]
+| [[Königs Wusterhausen|'''K'''önigs '''W'''usterhausen]]
+| [[Brandenburg]]
+|-
+| '''KY'''
+| [[Landkreis Ostprignitz-Ruppin]]
+| [[Kyritz|'''KY'''ritz]]
+| [[Brandenburg]]
+|-
+| '''KYF'''
+| [[Kyffhäuserkreis]]
+| [[Kyffhäuser|'''KYF'''fhäuser]]
+| [[Thüringen]]
+|-
+|}
+
+=== L ===
+{| {{TabDKfz}}
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#L|L]]'''
+| Stadt [[Leipzig]] (A–T und AA–TZ)
+| rowspan="2" | '''L'''eipzig
+| rowspan="2" | [[Sachsen]]
+|-
+| [[Landkreis Leipzig]] (U–Z und UA–ZZ)
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#L|LA]]'''
+| Stadt [[Landshut]] (sonst)*
+| rowspan="2" | '''LA'''ndshut
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Landshut]] (AA–ZZ 100–999 und 5000–9999)*
+|-
+| '''LAN'''
+| [[Landkreis Dingolfing-Landau]]
+| [[Landau an der Isar|'''LAN'''dau]]
+| [[Bayern]]
+|-
+| '''LAU'''
+| [[Landkreis Nürnberger Land]]
+| [[Lauf an der Pegnitz|'''LAU'''f]]
+| [[Bayern]]
+|-
+| '''LB'''
+| [[Landkreis Ludwigsburg]]
+| [[Ludwigsburg|'''L'''udwigs'''B'''urg]]
+| [[Baden-Württemberg]]
+|-
+| '''LBS'''
+| [[Saale-Orla-Kreis]]
+| [[Bad Lobenstein|'''L'''o'''B'''en'''S'''tein]]
+| [[Thüringen]]
+|-
+| '''LBZ'''
+| [[Landkreis Ludwigslust-Parchim]]
+| [[Lübz|'''L'''ü'''BZ''']]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''LC'''
+| [[Landkreis Dahme-Spreewald]]
+| [[Luckau|'''L'''u'''C'''kau]]
+| [[Brandenburg]]
+|-
+| '''LD'''
+| Stadt [[Landau in der Pfalz]]
+| '''L'''an'''D'''au
+| [[Rheinland-Pfalz]]
+|-
+| '''LDK'''
+| [[Lahn-Dill-Kreis]] ohne die Stadt [[Wetzlar]]
+| [[Lahn|'''L'''ahn]]-[[Dill (Fluss)|'''D'''ill]]-'''K'''reis
+| [[Hessen]]
+|-
+| '''LDS'''
+| [[Landkreis Dahme-Spreewald]]
+| [[Landkreis|'''L'''andkreis]] [[Dahme (Fluss)|'''D'''ahme]]-[[Spreewald|'''S'''preewald]]
+| [[Brandenburg]]
+|-
+| '''LEO'''
+| [[Landkreis Böblingen]]
+| [[Leonberg|'''LEO'''nberg]]
+| [[Baden-Württemberg]]
+|-
+| '''LER'''
+| [[Landkreis Leer]]
+| [[Leer (Ostfriesland)|'''LE'''e'''R''']]
+| [[Niedersachsen]]
+|-
+| '''LEV'''
+| Stadt [[Leverkusen]]
+| '''LEV'''erkusen
+| [[Nordrhein-Westfalen]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#L|LF]]'''
+| [[Landkreis Altötting]] (C 1–999, E 1–500, I, J, M, O, Q und V 1–999)
+| rowspan="3" | [[Laufen (Salzach)|'''L'''au'''F'''en]]
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Berchtesgadener Land]] (sonst)
+|-
+| [[Landkreis Traunstein]] (B, F und G 1–999, DH 1–100, FZ, GH und KQ 1–999, LU 1–200, RW 1–999, TK 1–100, TS 1–999, VW 200–400 sowie WW, XX und ZZ 1–999)
+|-
+| rowspan="2" | '''LG'''
+| [[Landkreis Lüneburg]] (sonst)
+| rowspan="2" | [[Lüneburg|'''L'''ünebur'''G''']]
+| rowspan="2" | [[Niedersachsen]]
+|-
+| Polizeidirektion Lüneburg (PD 100–9999)
+|-
+| rowspan="2" | '''LH'''
+| [[Kreis Coesfeld]]
+| rowspan="2" | [[Lüdinghausen|'''L'''üding'''H'''ausen]]
+| rowspan="2" | [[Nordrhein-Westfalen]]
+|-
+| [[Kreis Unna]]
+|-
+| '''LI'''
+| [[Landkreis Lindau (Bodensee)]]
+| [[Lindau (Bodensee)|'''LI'''ndau]]
+| [[Bayern]]
+|-
+| '''LIB'''
+| [[Landkreis Elbe-Elster]]
+| [[Bad Liebenwerda|'''LI'''e'''B'''enwerda]]
+| [[Brandenburg]]
+|-
+| '''LIF'''
+| [[Landkreis Lichtenfels]]
+| [[Lichtenfels (Oberfranken)|'''LI'''chten'''F'''els]]
+| [[Bayern]]
+|-
+| '''LIP'''
+| [[Kreis Lippe]]
+| [[Lippe (Land)|'''LIP'''pe]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''LL'''
+| [[Landkreis Landsberg am Lech]]
+| [[Landsberg am Lech|'''L'''andsberg am '''L'''ech]]
+| [[Bayern]]
+|-
+| '''LM'''
+| [[Landkreis Limburg-Weilburg]]
+| [[Limburg an der Lahn|'''L'''i'''M'''burg]]
+| [[Hessen]]
+|-
+| '''LN'''
+| [[Landkreis Dahme-Spreewald]]
+| [[Lübben (Spreewald)|'''L'''übbe'''N''']]
+| [[Brandenburg]]
+|-
+| '''LÖ'''
+| [[Landkreis Lörrach]]
+| [[Lörrach|'''LÖ'''rrach]]
+| [[Baden-Württemberg]]
+|-
+| '''LÖB'''
+| [[Landkreis Görlitz]]
+| [[Löbau|'''LÖB'''au]]
+| [[Sachsen]]
+|-
+| '''LOS'''
+| [[Landkreis Oder-Spree]]
+| [[Landkreis|'''L'''andkreis]] [[Oder|'''O'''der]]-[[Spree|'''S'''pree]]
+| [[Brandenburg]]
+|-
+| '''LP'''
+| [[Kreis Soest]]
+| [[Lippstadt|'''L'''i'''P'''pstadt]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''LR'''
+| [[Ortenaukreis]]
+| [[Lahr/Schwarzwald|'''L'''ah'''R''']]
+| [[Baden-Württemberg]]
+|-
+| '''LRO'''
+| [[Landkreis Rostock]]
+| [[Landkreis|'''L'''andkreis]] [[Rostock|'''RO'''stock]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''LSA'''
+| [[Sachsen-Anhalt]], Landesregierung, [[Landtag Sachsen-Anhalt|Landtag]] und Polizei<ref name="FZVO" />
+| '''L'''and '''S'''achsen-'''A'''nhalt
+| [[Sachsen-Anhalt]]
+|-
+| '''LSN'''
+| [[Sachsen]], Landesregierung und [[Sächsischer Landtag|Landtag]]
+| '''L'''andtag '''S'''achse'''N'''
+| [[Sachsen]]
+|-
+| '''LSZ'''
+| [[Unstrut-Hainich-Kreis]]
+| [[Bad Langensalza|'''L'''angen'''S'''al'''Z'''a]]
+| [[Thüringen]]
+|-
+| '''LU'''
+| Stadt [[Ludwigshafen am Rhein]]
+| '''LU'''dwigshafen
+| [[Rheinland-Pfalz]]
+|-
+| '''LÜN'''
+| [[Kreis Unna]]
+| [[Lünen|'''LÜN'''en]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''LUP'''
+| [[Landkreis Ludwigslust-Parchim]]
+| [[Ludwigslust|'''LU'''dwigslust]], [[Parchim|'''P'''archim]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''LWL'''
+| [[Landkreis Ludwigslust-Parchim]]
+| [[Ludwigslust|'''L'''ud'''W'''igs'''L'''ust]]
+| [[Mecklenburg-Vorpommern]]
+|-
+|}
+
+=== M ===
+{| {{TabDKfz}}
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#M|M]]'''
+| Stadt [[München]] (AA–ZZ 100–9999 ohne PM 1000–9999)*
+| rowspan="3" | '''M'''ünchen
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis München]] (sonst)*
+|-
+| [[Polizeipräsidium München]] (PM 1000–9999)
+|-
+| '''MA'''
+| Stadt [[Mannheim]]
+| '''MA'''nnheim
+| [[Baden-Württemberg]]
+|-
+| '''MAB'''
+| [[Erzgebirgskreis]]
+| [[Marienberg|'''MA'''rien'''B'''erg]]
+| [[Sachsen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#M|MAI]]'''
+| [[Landkreis Kelheim]] (sonst)
+| rowspan="2" | [[Mainburg|'''MAI'''nburg]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Landshut]] (B, F, G, I, O und Q 1–9999)
+|-
+| '''MAK'''
+| [[Landkreis Wunsiedel im Fichtelgebirge]]
+| [[Marktredwitz|'''MA'''r'''K'''tredwitz]]
+| [[Bayern]]
+|-
+| '''MAL'''
+| [[Landkreis Landshut]] (B, F, G, I, O und Q 1–9999)
+| [[Mallersdorf-Pfaffenberg|'''MAL'''lersdorf]]
+| [[Bayern]]
+|-
+| '''MB'''
+| [[Landkreis Miesbach]]
+| [[Miesbach|'''M'''ies'''B'''ach]]
+| [[Bayern]]
+|-
+| '''MC'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Malchin|'''M'''al'''C'''hin]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''MD'''
+| Stadt [[Magdeburg]]
+| '''M'''ag'''D'''eburg
+| [[Sachsen-Anhalt]]
+|-
+| '''ME'''
+| [[Kreis Mettmann]]
+| [[Mettmann|'''ME'''ttmann]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''MED'''
+| [[Kreis Dithmarschen]]
+| [[Meldorf|'''ME'''l'''D'''orf]]
+| [[Schleswig-Holstein]]
+|-
+| '''MEG'''
+| [[Schwalm-Eder-Kreis]]
+| [[Melsungen|'''ME'''lsun'''G'''en]]
+| [[Hessen]]
+|-
+| '''MEI'''
+| [[Landkreis Meißen]]
+| [[Meißen|'''MEI'''ßen]]
+| [[Sachsen]]
+|-
+| '''MEK'''
+| [[Erzgebirgskreis]]
+| [[Mittlerer Erzgebirgskreis|'''M'''ittlerer '''E'''rzgebirgs'''K'''reis]]
+| [[Sachsen]]
+|-
+| '''MER'''
+| [[Saalekreis]]
+| [[Merseburg|'''MER'''seburg]]
+| [[Sachsen-Anhalt]]
+|-
+| '''MET'''
+| [[Landkreis Rhön-Grabfeld]]
+| [[Mellrichstadt|'''ME'''llrichstad'''T''']]
+| [[Bayern]]
+|-
+| '''MG'''
+| Stadt [[Mönchengladbach]]
+| '''M'''önchen'''G'''ladbach
+| [[Nordrhein-Westfalen]]
+|-
+| '''MGH'''
+| [[Main-Tauber-Kreis]]
+| [[Bad Mergentheim|'''M'''er'''G'''ent'''H'''eim]]
+| [[Baden-Württemberg]]
+|-
+| '''MGN'''
+| [[Landkreis Schmalkalden-Meiningen]]
+| [[Meiningen|'''M'''einin'''G'''e'''N''']]
+| [[Thüringen]]
+|-
+| '''MH'''
+| Stadt [[Mülheim an der Ruhr]]
+| '''M'''ül'''H'''eim
+| [[Nordrhein-Westfalen]]
+|-
+| '''MHL'''
+| [[Unstrut-Hainich-Kreis]]
+| [[Mühlhausen/Thüringen|'''M'''ü'''HL'''hausen]]
+| [[Thüringen]]
+|-
+| '''MI'''
+| [[Kreis Minden-Lübbecke]]
+| [[Minden|'''MI'''nden]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''MIL'''
+| [[Landkreis Miltenberg]]
+| [[Miltenberg|'''MIL'''tenberg]]
+| [[Bayern]]
+|-
+| '''MK'''
+| [[Märkischer Kreis]]
+| [[Grafschaft Mark|'''M'''ärkischer]] '''K'''reis
+| [[Nordrhein-Westfalen]]
+|-
+| '''MKK'''
+| [[Main-Kinzig-Kreis]] ohne die Stadt [[Hanau]]
+| [[Main|'''M'''ain]]-[[Kinzig (Main)|'''K'''inzig]]-'''K'''reis
+| [[Hessen]]
+|-
+| '''ML'''
+| [[Landkreis Mansfeld-Südharz]]
+| [[Mansfelder Land|'''M'''ansfelder '''L'''and]]
+| [[Sachsen-Anhalt]]
+|-
+| '''MM'''
+| Stadt [[Memmingen]]
+| '''M'''em'''M'''ingen
+| [[Bayern]]
+|-
+| '''MN'''
+| [[Landkreis Unterallgäu]]
+| [[Mindelheim|'''M'''i'''N'''delheim]]
+| [[Bayern]]
+|-
+| '''MO'''
+| [[Kreis Wesel]]
+| [[Moers|'''MO'''ers]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''MOD'''
+| [[Landkreis Ostallgäu]]
+| [[Marktoberdorf|'''M'''arkt'''O'''ber'''D'''orf]]
+| [[Bayern]]
+|-
+| '''MOL'''
+| [[Landkreis Märkisch-Oderland]]
+| [[Mark Brandenburg|'''M'''ärkisch]]-[[Oder|'''O'''der'''L'''and]]
+| [[Brandenburg]]
+|-
+| rowspan="2" | '''MON'''
+| [[Städteregion Aachen]]
+| rowspan="2" | [[Monschau|'''MON'''schau]]
+| rowspan="2" | [[Nordrhein-Westfalen]]
+|-
+| [[Kreis Düren]]
+|-
+| '''MOS'''
+| [[Neckar-Odenwald-Kreis]]
+| [[Mosbach|'''MOS'''bach]]
+| [[Baden-Württemberg]]
+|-
+| '''MQ'''
+| [[Saalekreis]]
+| [[Merseburg|'''M'''erseburg]], [[Querfurt|'''Q'''uerfurt]]
+| [[Sachsen-Anhalt]]
+|-
+| '''MR'''
+| [[Landkreis Marburg-Biedenkopf]]
+| [[Marburg|'''M'''a'''R'''burg]]
+| [[Hessen]]
+|-
+| '''MS'''
+| Stadt [[Münster]]
+| '''M'''ün'''S'''ter
+| [[Nordrhein-Westfalen]]
+|-
+| '''MSE'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Mecklenburgische Seenplatte|'''M'''ecklenburgische '''SE'''enplatte]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''MSH'''
+| [[Landkreis Mansfeld-Südharz]]
+| [[Mansfelder Land|'''M'''ansfeld]], '''S'''üd[[Harz (Mittelgebirge)|'''H'''arz]]
+| [[Sachsen-Anhalt]]
+|-
+| '''MSP'''
+| [[Landkreis Main-Spessart]]
+| [[Main|'''M'''ain]], [[Spessart|'''SP'''essart]]
+| [[Bayern]]
+|-
+| '''MST'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Mecklenburg-Strelitz|'''M'''ecklenburg-'''ST'''relitz]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''MTK'''
+| [[Main-Taunus-Kreis]]
+| [[Main|'''M'''ain]]-[[Taunus|'''T'''aunus]]-'''K'''reis
+| [[Hessen]]
+|-
+| '''MTL'''
+| [[Landkreis Leipzig]]
+| [[Mulde (Fluss)|'''M'''ulden'''T'''a'''L''']]
+| [[Sachsen]]
+|-
+| '''MÜ'''
+| [[Landkreis Mühldorf am Inn]]
+| [[Mühldorf am Inn|'''MÜ'''hldorf]]
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#M|MÜB]]'''
+| [[Landkreis Bayreuth]] (A–M 100–999 und N–Z 1–99)
+| rowspan="2" | [[Münchberg|'''MÜ'''nch'''B'''erg]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Hof]] (sonst)
+|-
+| '''MÜR'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Müritz|'''MÜR'''itz]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''MVL'''
+| [[Mecklenburg-Vorpommern]], Landesregierung, [[Landtag Mecklenburg-Vorpommern|Landtag]] und Polizei<ref name="FZVO" />
+| '''M'''ecklenburg-'''V'''orpommerscher '''L'''andtag
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''MW'''
+| [[Landkreis Mittelsachsen]]
+| [[Mittweida|'''M'''itt'''W'''eida]]
+| [[Sachsen]]
+|-
+| '''MY'''
+| [[Landkreis Mayen-Koblenz]]
+| [[Mayen|'''M'''a'''Y'''en]]
+| [[Rheinland-Pfalz]]
+|-
+| '''MYK'''
+| [[Landkreis Mayen-Koblenz]]
+| [[Mayen|'''M'''a'''Y'''en]], [[Koblenz|'''K'''oblenz]]
+| [[Rheinland-Pfalz]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#M|MZ]]'''
+| Stadt [[Mainz]] (AA–KY 100–9999 und LA–ZZ 100–999)*
+| rowspan="2" | '''M'''ain'''Z'''
+| rowspan="2" | [[Rheinland-Pfalz]]
+|-
+| [[Landkreis Mainz-Bingen]] (sonst)
+|-
+| '''MZG'''
+| [[Landkreis Merzig-Wadern]]
+| [[Merzig|'''M'''er'''Z'''i'''G''']]
+| [[Saarland]]
+|}
+
+=== N ===
+{| {{TabDKfz}}
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#N|N]]'''
+| Stadt [[Nürnberg]] (A–Z 1000–9999 und AA–ZZ 100–9999 ohne PP 100–999)*
+| rowspan="3" | '''N'''ürnberg
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Nürnberger Land]] (A–Z 1–999)*
+|-
+| [[Polizeipräsidium Mittelfranken]] (PP 100–999)
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#N|NAB]]'''
+| [[Landkreis Amberg-Sulzbach]] (B, F und G 1–999)
+| rowspan="2" | [[Nabburg|'''NAB'''burg]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Schwandorf]] (sonst)
+|-
+| '''NAI'''
+| [[Landkreis Hof]]
+| [[Naila|'''NAI'''la]]
+| [[Bayern]]
+|-
+| '''NAU'''
+| [[Landkreis Havelland]]
+| [[Nauen|'''NAU'''en]]
+| [[Brandenburg]]
+|-
+| '''NB'''
+| Stadt [[Neubrandenburg]] ([[Liste der kreisangehörigen Städte mit Sonderstatus in Deutschland|große kreisangehörige Stadt]] im [[Landkreis Mecklenburgische Seenplatte]])
+| '''N'''eu'''B'''randenburg
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''ND'''
+| [[Landkreis Neuburg-Schrobenhausen]]
+| [[Neuburg an der Donau|'''N'''euburg an der '''D'''onau]]
+| [[Bayern]]
+|-
+| '''NDH'''
+| [[Landkreis Nordhausen]]
+| [[Nordhausen|'''N'''or'''DH'''ausen]]
+| [[Thüringen]]
+|-
+| '''NE'''
+| [[Rhein-Kreis Neuss]]
+| [[Neuss|'''NE'''uss]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''NEA'''
+| [[Landkreis Neustadt an der Aisch-Bad Windsheim]]
+| [[Neustadt an der Aisch|'''NE'''ustadt an der '''A'''isch]]
+| [[Bayern]]
+|-
+| '''NEB'''
+| [[Burgenlandkreis]]
+| [[Nebra (Unstrut)|'''NEB'''ra]]
+| [[Sachsen-Anhalt]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#N|NEC]]'''
+| [[Coburg|Stadt Coburg]]
+| rowspan="2" | [[Neustadt bei Coburg|'''NE'''ustadt bei '''C'''oburg]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Coburg]]
+|-
+| '''NEN'''
+| [[Landkreis Schwandorf]]
+| [[Neunburg vorm Wald|'''NE'''u'''N'''burg]]
+| [[Bayern]]
+|-
+| '''NES'''
+| [[Landkreis Rhön-Grabfeld]]
+| [[Bad Neustadt an der Saale|'''NE'''ustadt an der '''S'''aale]]
+| [[Bayern]]
+|-
+| '''NEW'''
+| [[Landkreis Neustadt an der Waldnaab]]
+| [[Neustadt an der Waldnaab|'''NE'''ustadt an der '''W'''aldnaab]]
+| [[Bayern]]
+|-
+| '''NF'''
+| [[Kreis Nordfriesland]]
+| [[Nordfriesland|'''N'''ord'''F'''riesland]]
+| [[Schleswig-Holstein]]
+|-
+| '''NH'''
+| [[Landkreis Sonneberg]]
+| [[Neuhaus am Rennweg|'''N'''eu'''H'''aus]]
+| [[Thüringen]]
+|-
+| '''NI'''
+| [[Landkreis Nienburg/Weser]]
+| [[Nienburg/Weser|'''NI'''enburg]]
+| [[Niedersachsen]]
+|-
+| '''NK'''
+| [[Landkreis Neunkirchen]]
+| [[Neunkirchen (Saar)|'''N'''eun'''K'''irchen]]
+| [[Saarland]]
+|-
+| '''NL'''
+| [[Niedersachsen]], Landesregierung und [[Niedersächsischer Landtag|Landtag]]
+| '''N'''iedersächsischer '''L'''andtag
+| [[Niedersachsen]]
+|-
+| '''NM'''
+| [[Landkreis Neumarkt in der Oberpfalz]]
+| [[Neumarkt in der Oberpfalz|'''N'''eu'''M'''arkt]]
+| [[Bayern]]
+|-
+| '''NMB'''
+| [[Burgenlandkreis]]
+| [[Naumburg (Saale)|'''N'''au'''MB'''urg]]
+| [[Sachsen-Anhalt]]
+|-
+| '''NMS'''
+| Stadt [[Neumünster]]
+| '''N'''eu'''M'''ün'''S'''ter
+| [[Schleswig-Holstein]]
+|-
+| '''NÖ'''
+| [[Landkreis Donau-Ries]]
+| [[Nördlingen|'''NÖ'''rdlingen]]
+| [[Bayern]]
+|-
+| '''NOH'''
+| [[Landkreis Grafschaft Bentheim]]
+| [[Nordhorn|'''NO'''rd'''H'''orn]]
+| [[Niedersachsen]]
+|-
+| '''NOL'''
+| [[Landkreis Görlitz]]
+| [[Niederschlesien|'''N'''iederschlesische]] [[Oberlausitz|'''O'''ber'''L'''ausitz]]
+| [[Sachsen]]
+|-
+| '''NOM'''
+| [[Landkreis Northeim]]
+| [[Northeim|'''NO'''rthei'''M''']]
+| [[Niedersachsen]]
+|-
+| '''NOR'''
+| [[Landkreis Aurich]]
+| [[Norden (Ostfriesland)|'''NOR'''den]]
+| [[Niedersachsen]]
+|-
+| '''NP'''
+| [[Landkreis Ostprignitz-Ruppin]]
+| [[Neuruppin|'''N'''eurup'''P'''in]]
+| [[Brandenburg]]
+|-
+| '''NR'''
+| [[Landkreis Neuwied]]
+| [[Neuwied|'''N'''euwied]] am [[Rhein|'''R'''hein]]
+| [[Rheinland-Pfalz]]
+|-
+| '''NRW'''
+| [[Nordrhein-Westfalen]], Landesregierung, [[Landtag Nordrhein-Westfalen|Landtag]] und Polizei<ref name="FZVO" />
+| '''N'''ord'''R'''hein-'''W'''estfalen
+| [[Nordrhein-Westfalen]]
+|-
+| '''NT'''
+| [[Landkreis Esslingen]]
+| [[Nürtingen|'''N'''ür'''T'''ingen]]
+| [[Baden-Württemberg]]
+|-
+| '''NU'''
+| [[Landkreis Neu-Ulm]]
+| [[Neu-Ulm|'''N'''eu-'''U'''lm]]
+| [[Bayern]]
+|-
+| '''NVP'''
+| [[Landkreis Vorpommern-Rügen]] ohne die Stadt [[Stralsund]]
+| '''N'''ord[[Vorpommern|'''V'''or'''P'''ommern]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''NW'''
+| Stadt [[Neustadt an der Weinstraße]]
+| '''N'''eustadt an der '''W'''einstraße
+| [[Rheinland-Pfalz]]
+|-
+| '''NWM'''
+| [[Landkreis Nordwestmecklenburg]] ohne die Stadt [[Wismar]]
+| '''N'''ord'''W'''est[[Mecklenburg|'''M'''ecklenburg]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''NY'''
+| [[Landkreis Görlitz]]
+| [[Niesky|'''N'''iesk'''Y''']]
+| [[Sachsen]]
+|-
+| '''NZ'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Neustrelitz|'''N'''eustrelit'''Z''']]
+| [[Mecklenburg-Vorpommern]]
+|}
+
+=== O ===
+{| {{TabDKfz}}
+|-
+| '''OA'''
+| [[Landkreis Oberallgäu]]
+| '''O'''ber'''A'''llgäu
+| [[Bayern]]
+|-
+| '''OAL'''
+| [[Landkreis Ostallgäu]]
+| '''O'''st'''AL'''lgäu
+| [[Bayern]]
+|-
+| '''OB'''
+| Stadt [[Oberhausen]]
+| '''OB'''erhausen
+| [[Nordrhein-Westfalen]]
+|-
+| '''OBB'''
+| [[Landkreis Miltenberg]]
+| [[Obernburg am Main|'''OB'''ern'''B'''urg]]
+| [[Bayern]]
+|-
+| '''OBG'''
+| [[Landkreis Stendal]]
+| [[Osterburg (Altmark)|'''O'''ster'''B'''ur'''G''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''OC'''
+| [[Landkreis Börde]]
+| [[Oschersleben (Bode)|'''O'''s'''C'''hersleben]]
+| [[Sachsen-Anhalt]]
+|-
+| '''OCH'''
+| [[Landkreis Würzburg]]
+| [[Ochsenfurt|'''OCH'''senfurt]]
+| [[Bayern]]
+|-
+| '''OD'''
+| [[Kreis Stormarn]]
+| [[Bad Oldesloe|'''O'''l'''D'''esloe]]
+| [[Schleswig-Holstein]]
+|-
+| '''OE'''
+| [[Kreis Olpe]]
+| [[Olpe|'''O'''lp'''E''']]
+| [[Nordrhein-Westfalen]]
+|-
+| '''OF'''
+| [[Landkreis Offenbach]] und Stadt [[Offenbach am Main]]
+| '''OF'''fenbach
+| [[Hessen]]
+|-
+| '''OG'''
+| [[Ortenaukreis]]
+| [[Offenburg|'''O'''ffenbur'''G''']]
+| [[Baden-Württemberg]]
+|-
+| '''OH'''
+| [[Kreis Ostholstein]]
+| '''O'''st[[Holstein|'''H'''olstein]]
+| [[Schleswig-Holstein]]
+|-
+| '''OHA'''
+| [[Landkreis Göttingen]]
+| [[Osterode am Harz|'''O'''sterode am '''HA'''rz]]
+| [[Niedersachsen]]
+|-
+| '''ÖHR'''
+| [[Hohenlohekreis]]
+| [[Öhringen|'''ÖHR'''ingen]]
+| [[Baden-Württemberg]]
+|-
+| '''OHV'''
+| [[Landkreis Oberhavel]]
+| '''O'''ber[[Havel|'''H'''a'''V'''el]]
+| [[Brandenburg]]
+|-
+| '''OHZ'''
+| [[Landkreis Osterholz]]
+| [[Osterholz-Scharmbeck|'''O'''ster'''H'''ol'''Z''']]
+| [[Niedersachsen]]
+|-
+| '''OK'''
+| [[Landkreis Börde]]
+| [[Ohrekreis|'''O'''hre'''K'''reis]]
+| [[Sachsen-Anhalt]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#O|OL]]'''
+| Stadt [[Oldenburg (Oldb)|Oldenburg]] (AA–ZZ 100–999 ohne PD)*
+| rowspan="3" | '''OL'''denburg
+| rowspan="3" | [[Niedersachsen]]
+|-
+| [[Landkreis Oldenburg]] (sonst)*
+|-
+| Polizeidirektion Oldenburg (PD 100–999)
+|-
+| '''OP'''
+| Stadt [[Leverkusen]]
+| [[Opladen|'''OP'''laden]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''OPR'''
+| [[Landkreis Ostprignitz-Ruppin]]
+| '''O'''st[[Prignitz|'''P'''rignitz]], [[Ruppiner Land|'''R'''uppin]]
+| [[Brandenburg]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#O|OS]]'''
+| Stadt [[Osnabrück]] (sonst)*
+| rowspan="3" | '''OS'''nabrück
+| rowspan="3" | [[Niedersachsen]]
+|-
+| [[Landkreis Osnabrück]] (AA–ZZ 100–999 ohne PD)*
+|-
+| Polizeidirektion Osnabrück (PD 100–999)
+|-
+| '''OSL'''
+| [[Landkreis Oberspreewald-Lausitz]]
+| '''O'''ber[[Spreewald|'''S'''preewald]], [[Lausitz|'''L'''ausitz]]
+| [[Brandenburg]]
+|-
+| '''OVI'''
+| [[Landkreis Schwandorf]]
+| [[Oberviechtach|'''O'''ber'''VI'''echtach]]
+| [[Bayern]]
+|-
+| '''OVL'''
+| [[Vogtlandkreis]]
+| [[Obervogtland|'''O'''ber'''V'''ogt'''L'''and]]
+| [[Sachsen]]
+|-
+| '''OZ'''
+| [[Landkreis Nordsachsen]]
+| [[Oschatz|'''O'''schat'''Z''']]
+| [[Sachsen]]
+|-
+|}
+
+=== P ===
+{| {{TabDKfz}}
+|-
+| '''P'''
+| Stadt [[Potsdam]]
+| '''P'''otsdam
+| [[Brandenburg]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#P|PA]]'''
+| Stadt [[Passau]] (A–Z 1–9999)
+| rowspan="2" | '''PA'''ssau
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Passau]] (AA–ZZ 1–999)
+|-
+| '''PAF'''
+| [[Landkreis Pfaffenhofen an der Ilm]]
+| [[Pfaffenhofen an der Ilm|'''P'''f'''AF'''fenhofen]]
+| [[Bayern]]
+|-
+| '''PAN'''
+| [[Landkreis Rottal-Inn]]
+| [[Pfarrkirchen|'''P'''f'''A'''rrkirche'''N''']]
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#P|PAR]]'''
+| [[Landkreis Kelheim]] (Q, Y, BB und CC 1–999)
+| rowspan="2" | [[Parsberg|'''PAR'''sberg]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Neumarkt in der Oberpfalz]] (sonst)
+|-
+| '''PB'''
+| [[Kreis Paderborn]]
+| [[Paderborn|'''P'''ader'''B'''orn]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''PCH'''
+| [[Landkreis Ludwigslust-Parchim]]
+| [[Parchim|'''P'''ar'''CH'''im]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''PE'''
+| [[Landkreis Peine]]
+| [[Peine|'''PE'''ine]]
+| [[Niedersachsen]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#P|PEG]]'''
+| [[Landkreis Bayreuth]] (B–Z 1–999)
+| rowspan="3" | [[Pegnitz (Stadt)|'''PEG'''nitz]]
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Forchheim]] (sonst)
+|-
+| [[Landkreis Nürnberger Land]] (A 1–999)
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#P|PF]]'''
+| Stadt [[Pforzheim]] (AA–MZ 100–999 und NA–ZZ 100–9999)*
+| rowspan="2" | '''PF'''orzheim
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Enzkreis]] (sonst)*
+|-
+| '''PI'''
+| [[Kreis Pinneberg]]
+| [[Pinneberg|'''PI'''nneberg]]
+| [[Schleswig-Holstein]]
+|-
+| '''PIR'''
+| [[Landkreis Sächsische Schweiz-Osterzgebirge]]
+| [[Pirna|'''PIR'''na]]
+| [[Sachsen]]
+|-
+| '''PL'''
+| [[Vogtlandkreis]]
+| [[Plauen|'''PL'''auen]]
+| [[Sachsen]]
+|-
+| '''PLÖ'''
+| [[Kreis Plön]]
+| [[Plön|'''PLÖ'''n]]
+| [[Schleswig-Holstein]]
+|-
+| '''PM'''
+| [[Landkreis Potsdam-Mittelmark]]
+| [[Potsdam|'''P'''otsdam]], '''M'''ittel[[Mark Brandenburg|mark]]
+| [[Brandenburg]]
+|-
+| '''PN'''
+| [[Saale-Orla-Kreis]]
+| [[Pößneck|'''P'''öß'''N'''eck]]
+| [[Thüringen]]
+|-
+| '''PR'''
+| [[Landkreis Prignitz]]
+| [[Prignitz|'''PR'''ignitz]]
+| [[Brandenburg]]
+|-
+| '''PRÜ'''
+| [[Eifelkreis Bitburg-Prüm]]
+| [[Prüm|'''PRÜ'''m]]
+| [[Rheinland-Pfalz]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#P|PS]]'''
+| Stadt [[Pirmasens]] (A–Z 1–9999)
+| rowspan="2" | '''P'''irma'''S'''ens
+| rowspan="2" | [[Rheinland-Pfalz]]
+|-
+| [[Landkreis Südwestpfalz]] (AA–ZZ 1–999)
+|-
+| '''PW'''
+| [[Landkreis Vorpommern-Greifswald]] ohne die Stadt [[Greifswald]]
+| [[Pasewalk|'''P'''ase'''W'''alk]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''PZ'''
+| [[Landkreis Uckermark]]
+| [[Prenzlau|'''P'''ren'''Z'''lau]]
+| [[Brandenburg]]
+|-
+|}
+
+=== Q ===
+{| {{TabDKfz}}
+|-
+| '''QFT'''
+| [[Saalekreis]]
+| [[Querfurt|'''Q'''uer'''F'''ur'''T''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''QLB'''
+| [[Landkreis Harz]]
+| [[Quedlinburg|'''Q'''ued'''L'''in'''B'''urg]]
+| [[Sachsen-Anhalt]]
+|}
+
+=== R ===
+{| {{TabDKfz}}
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#R|R]]'''
+| Stadt [[Regensburg]] (AA–MM 1–999 und MN–ZZ 1000–9999 ohne PP und PR 1–999)*
+| rowspan="3" | '''R'''egensburg
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Regensburg]] (sonst)*
+|-
+| [[Polizeipräsidium Oberpfalz]] (PP und PR 100–999)
+|-
+| '''RA'''
+| [[Landkreis Rastatt]]
+| [[Rastatt|'''RA'''statt]]
+| [[Baden-Württemberg]]
+|-
+| '''RC'''
+| [[Vogtlandkreis]]
+| [[Reichenbach im Vogtland|'''R'''ei'''C'''henbach]]
+| [[Sachsen]]
+|-
+| '''RD'''
+| [[Kreis Rendsburg-Eckernförde]]
+| [[Rendsburg|'''R'''en'''D'''sburg]]
+| [[Schleswig-Holstein]]
+|-
+| '''RDG'''
+| [[Landkreis Vorpommern-Rügen]] ohne die Stadt [[Stralsund]]
+| [[Ribnitz-Damgarten|'''R'''ibnitz-'''D'''am'''G'''arten]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''RE'''
+| [[Kreis Recklinghausen]]
+| [[Recklinghausen|'''RE'''cklinghausen]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''REG'''
+| [[Landkreis Regen]]
+| [[Regen (Stadt)|'''REG'''en]]
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#R|REH]]'''
+| [[Landkreis Hof]] (sonst)
+| rowspan="2" | [[Rehau|'''REH'''au]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Wunsiedel im Fichtelgebirge]] (A, E, F, H, J, M, N, P, R, S, V und X 1–999, AA, FF, GG, OO und ZZ 100–999 sowie AU 900–999)
+|-
+| '''REI'''
+| [[Landkreis Berchtesgadener Land]]
+| [[Bad Reichenhall|'''REI'''chenhall]]
+| [[Bayern]]
+|-
+| '''RG'''
+| [[Landkreis Meißen]]
+| [[Riesa|'''R'''iesa]], [[Großenhain|'''G'''roßenhain]]
+| [[Sachsen]]
+|-
+| '''RH'''
+| [[Landkreis Roth]]
+| [[Roth|'''R'''ot'''H''']]
+| [[Bayern]]
+|-
+| '''RI'''
+| [[Landkreis Schaumburg]]
+| [[Rinteln|'''RI'''nteln]]
+| [[Niedersachsen]]
+|-
+| '''RID'''
+| [[Landkreis Kelheim]]
+| [[Riedenburg|'''RI'''e'''D'''enburg]]
+| [[Bayern]]
+|-
+| '''RIE'''
+| [[Landkreis Meißen]]
+| [[Riesa|'''RIE'''sa]]
+| [[Sachsen]]
+|-
+| '''RL'''
+| [[Landkreis Mittelsachsen]]
+| [[Rochlitz|'''R'''och'''L'''itz]]
+| [[Sachsen]]
+|-
+| '''RM'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Röbel/Müritz|'''R'''öbel/'''M'''üritz]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''RN'''
+| [[Landkreis Havelland]]
+| [[Rathenow|'''R'''athe'''N'''ow]]
+| [[Brandenburg]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#R|RO]]'''
+| Stadt [[Rosenheim]] (sonst)*
+| rowspan="3" | '''RO'''senheim
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Rosenheim]] (AA–ZZ 100–9999)*
+|-
+| [[Polizeipräsidium Oberbayern Süd]] (P 100–999)
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#R|ROD]]'''
+| [[Landkreis Cham]] (sonst)
+| rowspan="2" | [[Roding|'''ROD'''ing]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Schwandorf]] (B 1–500, F 1–700, G 50–400 und I 100–1000)
+|-
+| '''ROF'''
+| [[Landkreis Hersfeld-Rotenburg]]
+| [[Rotenburg an der Fulda|'''RO'''tenburg an der '''F'''ulda]]
+| [[Hessen]]
+|-
+| '''ROK'''
+| [[Donnersbergkreis]]
+| [[Rockenhausen|'''RO'''c'''K'''enhausen]]
+| [[Rheinland-Pfalz]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#R|ROL]]'''
+| [[Landkreis Kelheim]] (A bis Z)*
+| rowspan="2" | [[Rottenburg an der Laaber|'''RO'''ttenburg an der '''L'''aaber]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Landshut]] (sonst)*
+|-
+| '''ROS'''
+| [[Landkreis Rostock]]
+| [[Rostock|'''ROS'''tock]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''ROT'''
+| [[Landkreis Ansbach]]
+| [[Rothenburg ob der Tauber|'''RO'''thenburg ob der '''T'''auber]]
+| [[Bayern]]
+|-
+| '''ROW'''
+| [[Landkreis Rotenburg (Wümme)]]
+| [[Rotenburg (Wümme)|'''RO'''tenburg ('''W'''ümme)]]
+| [[Niedersachsen]]
+|-
+| '''RP'''
+| [[Rhein-Pfalz-Kreis]]
+| [[Rhein|'''R'''hein]]-[[Pfalz (Region)|'''P'''falz]]
+| [[Rheinland-Pfalz]]
+|-
+| '''RPL'''
+| [[Landesregierung von Rheinland-Pfalz|Rheinland-Pfalz, Landesregierung]], [[Rheinland-Pfälzischer Landtag|Landtag]] und Polizei<ref name="FZVO" />
+| '''R'''heinland-'''P'''fälzischer '''L'''andtag
+| [[Rheinland-Pfalz]]
+|-
+| '''RS'''
+| Stadt [[Remscheid]]
+| '''R'''em'''S'''cheid
+| [[Nordrhein-Westfalen]]
+|-
+| '''RSL'''
+| Stadt [[Dessau-Roßlau]]
+| [[Roßlau (Elbe)|'''R'''os'''SL'''au]]
+| [[Sachsen-Anhalt]]
+|-
+| '''RT'''
+| [[Landkreis Reutlingen]]
+| [[Reutlingen|'''R'''eu'''T'''lingen]]
+| [[Baden-Württemberg]]
+|-
+| '''RU'''
+| [[Landkreis Saalfeld-Rudolstadt]]
+| [[Rudolstadt|'''RU'''dolstadt]]
+| [[Thüringen]]
+|-
+| '''RÜD'''
+| [[Rheingau-Taunus-Kreis]]
+| [[Rüdesheim am Rhein|'''RÜD'''esheim]]
+| [[Hessen]]
+|-
+| '''RÜG'''
+| [[Landkreis Vorpommern-Rügen]]
+| [[Rügen|'''RÜG'''en]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''RV'''
+| [[Landkreis Ravensburg]]
+| [[Ravensburg|'''R'''a'''V'''ensburg]]
+| [[Baden-Württemberg]]
+|-
+| '''RW'''
+| [[Landkreis Rottweil]]
+| [[Rottweil|'''R'''ott'''W'''eil]]
+| [[Baden-Württemberg]]
+|-
+| '''RZ'''
+| [[Kreis Herzogtum Lauenburg]]
+| [[Ratzeburg|'''R'''at'''Z'''eburg]]
+| [[Schleswig-Holstein]]
+|-
+|}
+
+=== S ===
+{| {{TabDKfz}}
+|-
+| '''S'''
+| Stadt [[Stuttgart]]
+| '''S'''tuttgart
+| [[Baden-Württemberg]]
+|-
+| '''SAB'''
+| [[Landkreis Trier-Saarburg]]
+| [[Saarburg|'''SA'''ar'''B'''urg]]
+| [[Rheinland-Pfalz]]
+|-
+| '''SAD'''
+| [[Landkreis Schwandorf]]
+| [[Schwandorf|'''S'''chw'''A'''n'''D'''orf]]
+| [[Bayern]]
+|-
+| '''SAL'''
+| [[Saarland]], Landesregierung, [[Landtag des Saarlandes|Landtag]] und Polizei<ref name="FZVO" />
+| [[Landtag des Saarlandes|'''SA'''arländischer '''L'''andtag]]
+| [[Saarland]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#S|SAN]]'''
+| [[Landkreis Hof]] (W–Z 1–999)
+| rowspan="3" | [[Stadtsteinach|'''S'''t'''A'''dtstei'''N'''ach]]
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Kronach]] (S–V 1–9999 und AA–IZ 1–999)
+|-
+| [[Landkreis Kulmbach]] (A–R 1–9999 und JA–ZZ 1–999)
+|-
+| '''SAW'''
+| [[Altmarkkreis Salzwedel]]
+| [[Salzwedel|'''SA'''lz'''W'''edel]]
+| [[Sachsen-Anhalt]]
+|-
+| '''SB'''
+| [[Regionalverband Saarbrücken]] ohne die Stadt [[Völklingen]]
+| [[Saarbrücken|'''S'''aar'''B'''rücken]]
+| [[Saarland]]
+|-
+| '''SBG'''
+| [[Landkreis Vorpommern-Greifswald]]
+| [[Strasburg (Uckermark)|'''S'''tras'''B'''ur'''G''']]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''SBK'''
+| [[Salzlandkreis]]
+| [[Schönebeck (Elbe)|'''S'''chöne'''B'''ec'''K''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''SC'''
+| Stadt [[Schwabach]]
+| '''SC'''hwabach
+| [[Bayern]]
+|-
+| '''SCZ'''
+| [[Saale-Orla-Kreis]]
+| [[Schleiz|'''SC'''hlei'''Z''']]
+| [[Thüringen]]
+|-
+| '''SDH'''
+| [[Kyffhäuserkreis]]
+| [[Sondershausen|'''S'''on'''D'''ers'''H'''ausen]]
+| [[Thüringen]]
+|-
+| '''SDL'''
+| [[Landkreis Stendal]]
+| [[Stendal|'''S'''ten'''D'''a'''L''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''SDT'''
+| [[Landkreis Uckermark]]
+| [[Schwedt/Oder|'''S'''chwe'''DT''']]
+| [[Brandenburg]]
+|-
+| '''SE'''
+| [[Kreis Segeberg]]
+| [[Bad Segeberg|'''SE'''geberg]]
+| [[Schleswig-Holstein]]
+|-
+| '''SEB'''
+| [[Landkreis Sächsische Schweiz-Osterzgebirge]]
+| [[Sebnitz|'''SEB'''nitz]]
+| [[Sachsen]]
+|-
+| '''SEE'''
+| [[Landkreis Märkisch-Oderland]]
+| [[Seelow|'''SEE'''low]]
+| [[Brandenburg]]
+|-
+| '''SEF'''
+| [[Landkreis Neustadt an der Aisch-Bad Windsheim]]
+| [[Scheinfeld|'''S'''ch'''E'''in'''F'''eld]]
+| [[Bayern]]
+|-
+| '''SEL'''
+| [[Landkreis Wunsiedel im Fichtelgebirge]]
+| [[Selb|'''SEL'''b]]
+| [[Bayern]]
+|-
+| '''SFB'''
+| [[Landkreis Oberspreewald-Lausitz]]
+| [[Senftenberg|'''S'''en'''F'''ten'''B'''erg]]
+| [[Brandenburg]]
+|-
+| '''SFT'''
+| [[Salzlandkreis]]
+| [[Staßfurt|'''S'''taß'''F'''ur'''T''']]
+| [[Sachsen-Anhalt]]
+|-
+| '''SG'''
+| Stadt [[Solingen]]
+| '''S'''olin'''G'''en
+| [[Nordrhein-Westfalen]]
+|-
+| '''SGH'''
+| [[Landkreis Mansfeld-Südharz]]
+| [[Sangerhausen|'''S'''an'''G'''er'''H'''ausen]]
+| [[Sachsen-Anhalt]]
+|-
+| '''SH'''
+| [[Schleswig-Holstein]], Landesregierung, [[Landtag Schleswig-Holstein|Landtag]] und Polizei<ref name="FZVO" />
+| '''S'''chleswig-'''H'''olstein
+| [[Schleswig-Holstein]]
+|-
+| '''SHA'''
+| [[Landkreis Schwäbisch Hall]]
+| [[Schwäbisch Hall|'''S'''chwäbisch '''HA'''ll]]
+| [[Baden-Württemberg]]
+|-
+| '''SHG'''
+| [[Landkreis Schaumburg]]
+| [[Stadthagen|'''S'''tadt'''H'''a'''G'''en]]
+| [[Niedersachsen]]
+|-
+| '''SHK'''
+| [[Saale-Holzland-Kreis]]
+| [[Saale|'''S'''aale]]-[[Thüringer Holzland|'''H'''olzland]]-'''K'''reis
+| [[Thüringen]]
+|-
+| '''SHL'''
+| Stadt [[Suhl]]
+| '''S'''u'''HL'''
+| [[Thüringen]]
+|-
+| '''SI'''
+| [[Kreis Siegen-Wittgenstein]]
+| [[Siegen|'''SI'''egen]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''SIG'''
+| [[Landkreis Sigmaringen]]
+| [[Sigmaringen|'''SIG'''maringen]]
+| [[Baden-Württemberg]]
+|-
+| '''SIM'''
+| [[Rhein-Hunsrück-Kreis]]
+| [[Simmern/Hunsrück|'''SIM'''mern]]
+| [[Rheinland-Pfalz]]
+|-
+| '''SK'''
+| [[Saalekreis]]
+| '''S'''aale'''K'''reis
+| [[Sachsen-Anhalt]]
+|-
+| '''SL'''
+| [[Kreis Schleswig-Flensburg]]
+| [[Schleswig|'''S'''ch'''L'''eswig]]
+| [[Schleswig-Holstein]]
+|-
+| rowspan="2" | '''SLE'''
+| [[Kreis Düren]]
+| rowspan="2" | [[Schleiden|'''S'''ch'''LE'''iden]]
+| rowspan="2" | [[Nordrhein-Westfalen]]
+|-
+| [[Kreis Euskirchen]]
+|-
+| '''SLF'''
+| [[Landkreis Saalfeld-Rudolstadt]]
+| [[Saalfeld/Saale|'''S'''aa'''LF'''eld]]
+| [[Thüringen]]
+|-
+| '''SLK'''
+| [[Salzlandkreis]]
+| '''S'''alz'''L'''and'''K'''reis
+| [[Sachsen-Anhalt]]
+|-
+| '''SLN'''
+| [[Landkreis Altenburger Land]]
+| [[Schmölln|'''S'''chmöl'''LN''']]
+| [[Thüringen]]
+|-
+| '''SLS'''
+| [[Landkreis Saarlouis]]
+| [[Saarlouis|'''S'''aar'''L'''oui'''S''']]
+| [[Saarland]]
+|-
+| '''SLÜ'''
+| [[Main-Kinzig-Kreis]] ohne die Stadt [[Hanau]]
+| [[Schlüchtern|'''S'''ch'''LÜ'''chtern]]
+| [[Hessen]]
+|-
+| '''SLZ'''
+| [[Wartburgkreis]]
+| [[Bad Salzungen|'''S'''a'''LZ'''ungen]]
+| [[Thüringen]]
+|-
+| '''SM'''
+| [[Landkreis Schmalkalden-Meiningen]]
+| [[Schmalkalden|'''S'''ch'''M'''alkalden]]
+| [[Thüringen]]
+|-
+| '''SMÜ'''
+| [[Landkreis Augsburg]]
+| [[Schwabmünchen|'''S'''chwab'''MÜ'''nchen]]
+| [[Bayern]]
+|-
+| '''SN'''
+| Stadt [[Schwerin]]
+| '''S'''chweri'''N'''
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''SO'''
+| [[Kreis Soest]]
+| [[Soest|'''SO'''est]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''SOB'''
+| [[Landkreis Neuburg-Schrobenhausen]]
+| [[Schrobenhausen|'''S'''chr'''OB'''enhausen]]
+| [[Bayern]]
+|-
+| '''SOG'''
+| [[Landkreis Weilheim-Schongau]]
+| [[Schongau|'''S'''ch'''O'''n'''G'''au]]
+| [[Bayern]]
+|-
+| '''SOK'''
+| [[Saale-Orla-Kreis]]
+| [[Saale|'''S'''aale]]-[[Orla|'''O'''rla]]-'''K'''reis
+| [[Thüringen]]
+|-
+| '''SÖM'''
+| [[Landkreis Sömmerda]]
+| [[Sömmerda|'''SÖM'''merda]]
+| [[Thüringen]]
+|-
+| '''SON'''
+| [[Landkreis Sonneberg]]
+| [[Sonneberg|'''SON'''neberg]]
+| [[Thüringen]]
+|-
+| '''SP'''
+| Stadt [[Speyer]]
+| '''SP'''eyer
+| [[Rheinland-Pfalz]]
+|-
+| '''SPB'''
+| [[Landkreis Spree-Neiße]]
+| [[Spremberg|'''SP'''rem'''B'''erg]]
+| [[Brandenburg]]
+|-
+| '''SPN'''
+| [[Landkreis Spree-Neiße]]
+| [[Spree|'''SP'''ree]], [[Lausitzer Neiße|'''N'''eiße]]
+| [[Brandenburg]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#S|SR]]'''
+| [[Landkreis Straubing-Bogen]] (AA–ZZ 1–999)
+| rowspan="3" | '''S'''t'''R'''aubing
+| rowspan="3" | [[Bayern]]
+|-
+| Stadt [[Straubing]] (A–Z 1–9999 ohne P 1000–1999)
+|-
+| [[Polizeipräsidium Niederbayern]] (P 1000–1999)
+|-
+| '''SRB'''
+| [[Landkreis Märkisch-Oderland]]
+| [[Strausberg|'''S'''t'''R'''aus'''B'''erg]]
+| [[Brandenburg]]
+|-
+| '''SRO'''
+| [[Saale-Holzland-Kreis]]
+| [[Stadtroda|'''S'''tadt'''RO'''da]]
+| [[Thüringen]]
+|-
+| '''ST'''
+| [[Kreis Steinfurt]]
+| [[Steinfurt|'''ST'''einfurt]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''STA'''
+| [[Landkreis Starnberg]]
+| [[Starnberg|'''STA'''rnberg]]
+| [[Bayern]]
+|-
+| '''STB'''
+| [[Landkreis Ludwigslust-Parchim]]
+| [[Sternberg|'''ST'''ern'''B'''erg]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''STD'''
+| [[Landkreis Stade]]
+| [[Stade|'''ST'''a'''D'''e]]
+| [[Niedersachsen]]
+|-
+| '''STE'''
+| [[Landkreis Lichtenfels]]
+| [[Bad Staffelstein|'''ST'''affelst'''E'''in]]
+| [[Bayern]]
+|-
+| '''STL'''
+| [[Erzgebirgskreis]]
+| [[Stollberg/Erzgeb.|'''ST'''ol'''L'''berg]]
+| [[Sachsen]]
+|-
+| '''SU'''
+| [[Rhein-Sieg-Kreis]]
+| [[Siegburg|'''S'''iegb'''U'''rg]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''SUL'''
+| [[Landkreis Amberg-Sulzbach]]
+| [[Sulzbach-Rosenberg|'''SUL'''zbach]]
+| [[Bayern]]
+|-
+| '''SÜW'''
+| [[Landkreis Südliche Weinstraße]]
+| '''SÜ'''dliche [[Deutsche Weinstraße|'''W'''einstraße]]
+| [[Rheinland-Pfalz]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#S|SW]]'''
+| Stadt [[Schweinfurt]] (sonst)*
+| rowspan="2" | '''S'''ch'''W'''einfurt
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Schweinfurt]] (AA–ZZ 100–9999)*
+|-
+| '''SWA'''
+| [[Rheingau-Taunus-Kreis]]
+| [[Bad Schwalbach|'''S'''ch'''WA'''lbach]]
+| [[Hessen]]
+|-
+| '''SZ'''
+| Stadt [[Salzgitter]]
+| '''S'''al'''Z'''gitter
+| [[Niedersachsen]]
+|-
+| '''SZB'''
+| [[Erzgebirgskreis]]
+| [[Schwarzenberg/Erzgeb.|'''S'''chwar'''Z'''en'''B'''erg]]
+| [[Sachsen]]
+|-
+|}
+
+=== T ===
+{| {{TabDKfz}}
+|-
+| '''TBB'''
+| [[Main-Tauber-Kreis]]
+| [[Tauberbischofsheim|'''T'''au'''B'''er'''B'''ischofsheim]]
+| [[Baden-Württemberg]]
+|-
+| '''TDO'''
+| [[Landkreis Nordsachsen]]
+| [[Torgau|'''T'''orgau]], [[Delitzsch|'''D'''elitzsch]], [[Oschatz|'''O'''schatz]]
+| [[Sachsen]]
+|-
+| '''TE'''
+| [[Kreis Steinfurt]]
+| [[Tecklenburg|'''TE'''cklenburg]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''TET'''
+| [[Landkreis Rostock]]
+| [[Teterow|'''TET'''erow]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''TF'''
+| [[Landkreis Teltow-Fläming]]
+| [[Teltow (Landschaft)|'''T'''eltow]], [[Fläming|'''F'''läming]]
+| [[Brandenburg]]
+|-
+| '''TG'''
+| [[Landkreis Nordsachsen]]
+| [[Torgau|'''T'''or'''G'''au]]
+| [[Sachsen]]
+|-
+| '''THL'''
+| [[Thüringen]], Landesregierung und [[Thüringer Landtag|Landtag]]
+| '''TH'''üringer '''L'''andtag
+| [[Thüringen]]
+|-
+| '''THW'''
+| [[Technisches Hilfswerk|Bundesanstalt Technisches Hilfswerk]]
+| '''T'''echnisches '''H'''ilfs'''W'''erk
+| bundesweit
+|-
+| '''TIR'''
+| [[Landkreis Tirschenreuth]]
+| [[Tirschenreuth|'''TIR'''schenreuth]]
+| [[Bayern]]
+|-
+| '''TO'''
+| [[Landkreis Nordsachsen]]
+| [[Torgau|'''T'''orgau]], [[Oschatz|'''O'''schatz]]
+| [[Sachsen]]
+|-
+| '''TÖL'''
+| [[Landkreis Bad Tölz-Wolfratshausen]]
+| [[Bad Tölz|'''TÖL'''z]]
+| [[Bayern]]
+|-
+| '''TP'''
+| [[Landkreis Uckermark]]
+| [[Templin|'''T'''em'''P'''lin]]
+| [[Brandenburg]]
+|-
+| '''TR'''
+| [[Landkreis Trier-Saarburg]] und Stadt [[Trier]]
+| '''TR'''ier
+| [[Rheinland-Pfalz]]
+|-
+| '''TS'''
+| [[Landkreis Traunstein]]
+| [[Traunstein|'''T'''raun'''S'''tein]]
+| [[Bayern]]
+|-
+| '''TÜ'''
+| [[Landkreis Tübingen]]
+| [[Tübingen|'''TÜ'''bingen]]
+| [[Baden-Württemberg]]
+|-
+| '''TUT'''
+| [[Landkreis Tuttlingen]]
+| [[Tuttlingen|'''TUT'''tlingen]]
+| [[Baden-Württemberg]]
+|-
+|}
+
+=== U ===
+{| {{TabDKfz}}
+|-
+| '''UE'''
+| [[Landkreis Uelzen]]
+| [[Uelzen|'''UE'''lzen]]
+| [[Niedersachsen]]
+|-
+| '''UEM'''
+| [[Landkreis Vorpommern-Greifswald]] ohne die Stadt [[Greifswald]]
+| [[Ueckermünde|'''UE'''cker'''M'''ünde]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''UFF'''
+| [[Landkreis Neustadt an der Aisch-Bad Windsheim]]
+| [[Uffenheim|'''UFF'''enheim]]
+| [[Bayern]]
+|-
+| '''UH'''
+| [[Unstrut-Hainich-Kreis]]
+| [[Unstrut|'''U'''nstrut]], [[Hainich|'''H'''ainich]]
+| [[Thüringen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#U|UL]]'''
+| Stadt [[Ulm]] (sonst)*
+| rowspan="2" | '''UL'''m
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Alb-Donau-Kreis]] (AA–MZ 100–999 und NA–ZZ 100–9999)*
+|-
+| '''UM'''
+| [[Landkreis Uckermark]]
+| [[Uckermark|'''U'''cker'''M'''ark]]
+| [[Brandenburg]]
+|-
+| '''UN'''
+| [[Kreis Unna]]
+| [[Unna|'''UN'''na]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''USI'''
+| [[Hochtaunuskreis]]
+| [[Usingen|'''USI'''ngen]]
+| [[Hessen]]
+|-
+|}
+
+=== V ===
+{| {{TabDKfz}}
+|-
+| '''V'''
+| [[Vogtlandkreis]]
+| [[Vogtland|'''V'''ogtland]]
+| [[Sachsen]]
+|-
+| '''VAI'''
+| [[Landkreis Ludwigsburg]]
+| [[Vaihingen an der Enz|'''VAI'''hingen]]
+| [[Baden-Württemberg]]
+|-
+| '''VB'''
+| [[Vogelsbergkreis]]
+| [[Vogelsberg|'''V'''ogels'''B'''erg]]
+| [[Hessen]]
+|-
+| '''VEC'''
+| [[Landkreis Vechta]]
+| [[Vechta|'''VEC'''hta]]
+| [[Niedersachsen]]
+|-
+| '''VER'''
+| [[Landkreis Verden]]
+| [[Verden (Aller)|'''VER'''den]]
+| [[Niedersachsen]]
+|-
+| '''VG'''
+| [[Landkreis Vorpommern-Greifswald]] ohne die Stadt [[Greifswald]]
+| [[Vorpommern|'''V'''orpommern]], [[Greifswald|'''G'''reifswald]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#V|VIB]]'''
+| [[Landkreis Landshut]] (sonst)*
+| rowspan="2" | [[Vilsbiburg|'''VI'''ls'''B'''iburg]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Rottal-Inn]] (B, I, O und Q 100–999)
+|-
+| '''VIE'''
+| [[Kreis Viersen]]
+| [[Viersen|'''VIE'''rsen]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''VIT'''
+| [[Landkreis Regen]]
+| [[Viechtach|'''VI'''ech'''T'''ach]]
+| [[Bayern]]
+|-
+| '''VK'''
+| Stadt [[Völklingen]] ([[Mittelstadt]] im [[Regionalverband Saarbrücken]])
+| '''V'''öl'''K'''lingen
+| [[Saarland]]
+|-
+| '''VOH'''
+| [[Landkreis Neustadt an der Waldnaab]]
+| [[Vohenstrauß|'''VOH'''enstrauß]]
+| [[Bayern]]
+|-
+| '''VR'''
+| [[Landkreis Vorpommern-Rügen]] ohne die Stadt [[Stralsund]]
+| [[Vorpommern|'''V'''orpommern]], [[Rügen|'''R'''ügen]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''VS'''
+| [[Schwarzwald-Baar-Kreis]]
+| [[Villingen-Schwenningen|'''V'''illingen-'''S'''chwenningen]]
+| [[Baden-Württemberg]]
+|-
+|}
+
+=== W ===
+{| {{TabDKfz}}
+|-
+| '''W'''
+| Stadt [[Wuppertal]]
+| '''W'''uppertal
+| [[Nordrhein-Westfalen]]
+|-
+| '''WA'''
+| [[Landkreis Waldeck-Frankenberg]]
+| [[Waldeck|'''WA'''ldeck]]
+| [[Hessen]]
+|-
+| '''WAF'''
+| [[Kreis Warendorf]]
+| [[Warendorf|'''WA'''rendor'''F''']]
+| [[Nordrhein-Westfalen]]
+|-
+| '''WAK'''
+| [[Wartburgkreis]]
+| [[Wartburg|'''WA'''rtburg]]'''K'''reis
+| [[Thüringen]]
+|-
+| '''WAN'''
+| Stadt [[Herne]]
+| [[Wanne-Eickel|'''WAN'''ne]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''WAT'''
+| Stadt [[Bochum]]
+| [[Wattenscheid|'''WAT'''tenscheid]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''WB'''
+| [[Landkreis Wittenberg]]
+| [[Lutherstadt Wittenberg|'''W'''itten'''B'''erg]]
+| [[Sachsen-Anhalt]]
+|-
+| '''WBS'''
+| [[Landkreis Eichsfeld]]
+| [[Worbis|'''W'''or'''B'''i'''S''']]
+| [[Thüringen]]
+|-
+| '''WDA'''
+| [[Landkreis Zwickau]]
+| [[Werdau|'''W'''er'''DA'''u]]
+| [[Sachsen]]
+|-
+| '''WE'''
+| Stadt [[Weimar]]
+| '''WE'''imar
+| [[Thüringen]]
+|-
+| '''WEL'''
+| [[Landkreis Limburg-Weilburg]]
+| [[Weilburg|'''WE'''i'''L'''burg]]
+| [[Hessen]]
+|-
+| '''WEN'''
+| Stadt [[Weiden in der Oberpfalz]]
+| '''WE'''ide'''N'''
+| [[Bayern]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#W|WER]]'''
+| [[Landkreis Augsburg]] (A–Z 7000–9999 und YA–YZ 1–999)
+| rowspan="2" | [[Wertingen|'''WER'''tingen]]
+| rowspan="2" | [[Bayern]]
+|-
+| [[Landkreis Dillingen an der Donau]] (sonst)
+|-
+| '''WES'''
+| [[Kreis Wesel]]
+| [[Wesel|'''WES'''el]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''WF'''
+| [[Landkreis Wolfenbüttel]]
+| [[Wolfenbüttel|'''W'''ol'''F'''enbüttel]]
+| [[Niedersachsen]]
+|-
+| '''WHV'''
+| Stadt [[Wilhelmshaven]]
+| '''W'''ilhelms'''H'''a'''V'''en
+| [[Niedersachsen]]
+|-
+| rowspan="2" | '''WI'''
+| Stadt [[Wiesbaden]] (sonst)
+| rowspan="2" | '''WI'''esbaden
+| rowspan="2" | [[Hessen]]
+|-
+| [[Hessische Polizei]] (HP 100–9999)
+|-
+| '''WIL'''
+| [[Landkreis Bernkastel-Wittlich]]
+| [[Wittlich|'''WI'''tt'''L'''ich]]
+| [[Rheinland-Pfalz]]
+|-
+| '''WIS'''
+| [[Landkreis Nordwestmecklenburg]]
+| [[Wismar|'''WIS'''mar]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''WIT'''
+| [[Ennepe-Ruhr-Kreis]]
+| [[Witten|'''WIT'''ten]]
+| [[Nordrhein-Westfalen]]
+|-
+| '''WIZ'''
+| [[Werra-Meißner-Kreis]]
+| [[Witzenhausen|'''WI'''t'''Z'''enhausen]]
+| [[Hessen]]
+|-
+| '''WK'''
+| [[Landkreis Ostprignitz-Ruppin]]
+| [[Wittstock/Dosse|'''W'''ittstoc'''K''']]
+| [[Brandenburg]]
+|-
+| '''WL'''
+| [[Landkreis Harburg]]
+| [[Winsen (Luhe)|'''W'''insen ('''L'''uhe)]]
+| [[Niedersachsen]]
+|-
+| '''WLG'''
+| [[Landkreis Vorpommern-Greifswald]] ohne die Stadt [[Greifswald]]
+| [[Wolgast|'''W'''o'''LG'''ast]]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''WM'''
+| [[Landkreis Weilheim-Schongau]]
+| [[Weilheim in Oberbayern|'''W'''eilhei'''M''']]
+| [[Bayern]]
+|-
+| '''WMS'''
+| [[Landkreis Börde]]
+| [[Wolmirstedt|'''W'''ol'''M'''ir'''S'''tedt]]
+| [[Sachsen-Anhalt]]
+|-
+| '''WN'''
+| [[Rems-Murr-Kreis]]
+| [[Waiblingen|'''W'''aiblinge'''N''']]
+| [[Baden-Württemberg]]
+|-
+| '''WND'''
+| [[Landkreis St. Wendel]]
+| [[St. Wendel|'''W'''e'''ND'''el]]
+| [[Saarland]]
+|-
+| '''WO'''
+| Stadt [[Worms]]
+| '''WO'''rms
+| [[Rheinland-Pfalz]]
+|-
+| '''WOB'''
+| Stadt [[Wolfsburg]]
+| '''WO'''lfs'''B'''urg
+| [[Niedersachsen]]
+|-
+| '''WOH'''
+| [[Landkreis Kassel]]
+| [[Wolfhagen|'''WO'''lf'''H'''agen]]
+| [[Hessen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#W|WOL]]'''
+| [[Landkreis Freudenstadt]] (A bis E 9000–9999)
+| rowspan="2" | [[Wolfach|'''WOL'''fach]]
+| rowspan="2" | [[Baden-Württemberg]]
+|-
+| [[Ortenaukreis]] (sonst)
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#W|WOR]]'''
+| [[Landkreis Bad Tölz-Wolfratshausen]] (sonst)
+| rowspan="3" | [[Wolfratshausen|'''WO'''lf'''R'''atshausen]]
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis München]] (F und O 10–9999)
+|-
+| [[Landkreis Starnberg]] (B und G 10–9999)
+|-
+| '''WOS'''
+| [[Landkreis Freyung-Grafenau]]
+| [[Schloss Wolfstein|'''WO'''lf'''S'''tein]]
+| [[Bayern]]
+|-
+| '''WR'''
+| [[Landkreis Harz]]
+| [[Wernigerode|'''W'''ernige'''R'''ode]]
+| [[Sachsen-Anhalt]]
+|-
+| '''WRN'''
+| [[Landkreis Mecklenburgische Seenplatte]] ohne die Stadt [[Neubrandenburg]]
+| [[Waren (Müritz)|'''W'''a'''R'''e'''N''']]
+| [[Mecklenburg-Vorpommern]]
+|-
+| '''WS'''
+| [[Landkreis Rosenheim]]
+| [[Wasserburg am Inn|'''W'''as'''S'''erburg]]
+| [[Bayern]]
+|-
+| '''WSF'''
+| [[Burgenlandkreis]]
+| [[Weißenfels|'''W'''eis'''S'''en'''F'''els]]
+| [[Sachsen-Anhalt]]
+|-
+| '''WST'''
+| [[Landkreis Ammerland]]
+| [[Westerstede|'''W'''ester'''ST'''ede]]
+| [[Niedersachsen]]
+|-
+| '''WSW'''
+| [[Landkreis Görlitz]]
+| [[Weißwasser|'''W'''eis'''SW'''asser]]
+| [[Sachsen]]
+|-
+| '''WT'''
+| [[Landkreis Waldshut]]
+| [[Waldshut-Tiengen|'''W'''aldshu'''T''']]
+| [[Baden-Württemberg]]
+|-
+| '''WTM'''
+| [[Landkreis Wittmund]]
+| [[Wittmund|'''W'''it'''TM'''und]]
+| [[Niedersachsen]]
+|-
+| rowspan="3" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#W|WÜ]]'''
+| Stadt [[Würzburg]] (AA–NZ 100–9999 und OA–ZZ 100–999)*
+| rowspan="3" | '''WÜ'''rzburg
+| rowspan="3" | [[Bayern]]
+|-
+| [[Landkreis Würzburg]] (sonst)*
+|-
+| [[Polizeipräsidium Unterfranken]] (PP 1000–9999)
+|-
+| '''WUG'''
+| [[Landkreis Weißenburg-Gunzenhausen]]
+| [[Weißenburg in Bayern|'''W'''eißenb'''U'''r'''G''']]
+| [[Bayern]]
+|-
+| '''WÜM'''
+| [[Landkreis Cham]]
+| [[Waldmünchen|'''W'''ald'''MÜ'''nchen]] (mit einem Buchstabendreher)
+| [[Bayern]]
+|-
+| '''WUN'''
+| [[Landkreis Wunsiedel im Fichtelgebirge]]
+| [[Wunsiedel|'''WUN'''siedel]]
+| [[Bayern]]
+|-
+| '''WUR'''
+| [[Landkreis Leipzig]]
+| [[Wurzen|'''WUR'''zen]]
+| [[Sachsen]]
+|-
+| '''WW'''
+| [[Westerwaldkreis]]
+| [[Westerwald|'''W'''ester'''W'''ald]]
+| [[Rheinland-Pfalz]]
+|-
+| '''WZ'''
+| Stadt [[Wetzlar]] ([[Liste der kreisangehörigen Städte mit Sonderstatus in Deutschland|Sonderstatusstadt]] im [[Lahn-Dill-Kreis]])
+| '''W'''et'''Z'''lar
+| [[Hessen]]
+|-
+| '''WZL'''
+| [[Landkreis Börde]]
+| [[Stadt Wanzleben|'''W'''an'''ZL'''eben]]
+| [[Sachsen-Anhalt]]
+|-
+|}
+
+=== X ===
+{| {{TabDKfz}}
+|-
+| '''X'''
+| Internationale Hauptquartiere ([[NATO]])
+| ''willkürlich gewählt''
+| bundesweit
+|-
+|}
+
+=== Y ===
+{| {{TabDKfz}}
+|-
+| '''Y'''
+| [[Bundeswehr]]
+| ''„Y“ wurde genommen, da es bei Gründung der Bundeswehr noch frei war. „BW“ o.&nbsp;Ä. war bereits vergeben. (BW = Bundes-Wasserstraßen-Verwaltung)''
+| bundesweit
+|-
+|}
+
+=== Z ===
+{| {{TabDKfz}}
+|-
+| '''Z'''
+| [[Landkreis Zwickau]]
+| [[Zwickau|'''Z'''wickau]]
+| [[Sachsen]]
+|-
+| '''ZE'''
+| [[Landkreis Anhalt-Bitterfeld]]
+| [[Zerbst/Anhalt|'''ZE'''rbst]]
+| [[Sachsen-Anhalt]]
+|-
+| '''ZEL'''
+| [[Landkreis Cochem-Zell]]
+| [[Zell (Mosel)|'''ZEL'''l]]
+| [[Rheinland-Pfalz]]
+|-
+| '''ZI'''
+| [[Landkreis Görlitz]]
+| [[Zittau|'''ZI'''ttau]]
+| [[Sachsen]]
+|-
+| '''ZIG'''
+| [[Schwalm-Eder-Kreis]]
+| [[Ziegenhain (Schwalmstadt)|'''ZI'''e'''G'''enhain]]
+| [[Hessen]]
+|-
+| '''ZP'''
+| [[Erzgebirgskreis]]
+| [[Zschopau|'''Z'''scho'''P'''au]]
+| [[Sachsen]]
+|-
+| '''ZR'''
+| [[Landkreis Greiz]]
+| [[Zeulenroda|'''Z'''eulen'''R'''oda]]
+| [[Thüringen]]
+|-
+| rowspan="2" | '''[[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung#Z|ZW]]'''
+| Stadt [[Zweibrücken]] (sonst)
+| rowspan="2" | '''ZW'''eibrücken
+| rowspan="2" | [[Rheinland-Pfalz]]
+|-
+| [[Landkreis Südwestpfalz]] (AA–ZZ 1–99)
+|-
+| '''ZZ'''
+| [[Burgenlandkreis]]
+| [[Zeitz|'''Z'''eit'''Z''']]
+| [[Sachsen-Anhalt]]
+|-
+|}
+
+<nowiki>*</nowiki> Ausnahmen bei B, F, G, I, O und Q
+
+{{TOC Artikel|ZEICHEN=#A}}
+
+== Kennzeichenliberalisierung ==
+{{Gesamtübersicht Kennzeichenliberalisierung}}
+== Sonstiges ==
+[[Elektrokarren]] auf der ansonsten autofreien Insel [[Helgoland]] haben das Unterscheidungszeichen ''AG'', das für „Ausnahmegenehmigung“ steht. In der Erkennungsnummer stehen die Buchstaben ''NR''.<ref>[http://www.volk.de/nachrichten/elektrokarren_helgoland/elektrokarren_helgoland.html Nach Angaben des Herstellers]</ref> Es sind keine amtlichen Kennzeichen.
+
+== Siehe auch ==
+* [[Kfz-Kennzeichen (Deutschland)]]
+* [[Liste aller Kfz-Kennzeichen der Bundesrepublik Deutschland]]
+* [[Liste aller deutschen Kfz-Kennzeichen mit einer Gebietseinteilung]]
+* [[Liste der deutschen Landkreise und Städte mit ihren Kfz-Kennzeichen]]
+* [[Liste der deutschen Kfz-Kennzeichen, die nicht mehr ausgegeben werden]]
+* [[Kennzeichenliberalisierung]]
+* [[Kfz-Kennzeichen der US-Streitkräfte in Deutschland]]
+* [[Ostzonenverzeichnis der deutschen Kfz-Kennzeichen]]
+* [[Entwürfe für die Kfz-Kennzeichen in Deutschland]]
+* [[Gültigkeitsbeginn der deutschen Kfz-Kennzeichen]]
+* [[Liste der Kfz-Nationalitätszeichen]]
+* [[Kraftfahrzeugkennzeichen]] aus anderen Ländern
+* [[Kfz-Kennzeichen in Filmproduktionen]]
+
+== Weblinks ==
+* [http://www.kba.de/SharedDocs/Publikationen/DE/Presse/kfz_kennzeichenliste_faltblatt_pdf.pdf?__blob=publicationFile&v=33 Kraftfahrt-Bundesamt: Kfz-Kennzeichen Deutschland (Stand: 18. März 2016)] abgerufen: 26. September 2016 (PDF; 347 kB)
+* [http://www.kfz-auskunft.de/autokennzeichen/autokennzeichen.html Kennzeichenauskunft Deutschland und International]
+* [http://www.kfz.de/autokennzeichen/autokennzeichen_deutschland/ Kennzeichen Deutschland]
+
+== Einzelnachweise ==
+<references />
+
+{{Navigationsleiste Kfz-Kennzeichen in Europa}}
+
+[[Kategorie:Kfz-Kennzeichen (Deutschland)| Liste]]
+[[Kategorie:Liste (Straßenverkehr)|KfzKennzeichen in Deutschland]]
+[[Kategorie:Kfz-Kennzeichen nach Staat|Deutschland]]
