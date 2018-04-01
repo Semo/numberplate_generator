@@ -115,9 +115,10 @@ public class NumberPlate {
         font = font.deriveFont(105f);
         g.setColor(Color.BLACK);
         g.setFont(font);
-        g.drawString(buildPlateString(), 60, 90);
+        String plateString = buildPlateString();
+        g.drawString(plateString, 60, 90);
         g.dispose();
 
-        ImageIO.write(image, "png", new File("test.png"));
+        ImageIO.write(image, "png", new File(plateString.replaceAll("\\s+","") + ".png"));
     }
 }
