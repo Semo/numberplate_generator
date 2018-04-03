@@ -7,6 +7,10 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
+
+/**
+ *
+ */
 public class NumberPlate {
 
     private final String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -74,12 +78,19 @@ public class NumberPlate {
             "ZR", "ZZ"};
 
 
-    private String randomElementOfList(String[] stringArray) {
+    /**
+     * @param stringArray
+     * @return
+     */
+    public String randomElementOfList(String[] stringArray) {
         Random rand = new Random();
         return stringArray[rand.nextInt(stringArray.length)];
     }
 
-    private String randomString() {
+    /**
+     * @return
+     */
+    public String randomString() {
         final int N = alphabet.length();
 
         Random r = new Random();
@@ -92,7 +103,10 @@ public class NumberPlate {
         return new String(charArray);
     }
 
-    private String buildPlateString() {
+    /**
+     * @return
+     */
+    public String buildPlateString() {
         String randomDistrict = randomElementOfList(districts);
         String randomString = randomString();
         int randomNum = 0;
@@ -106,8 +120,16 @@ public class NumberPlate {
         return randomDistrict + "  " + randomString + " " + randomNum;
     }
 
-    public void buildPlateImage() throws IOException, FontFormatException {
-        final BufferedImage image = ImageIO.read(new File("/home/semo/springwebapps/anpg/src/numberplate1.png"));
+    /**
+     * @throws IOException
+     * @throws FontFormatException
+     */
+    public String buildPlateImage(String targetDir) throws IOException, FontFormatException {
+        ClassLoader classLoader = getClass().getClassLoader();
+        final BufferedImage image = ImageIO.read(classLoader.getResource("numberplate1.png"));
+
+        String plateString = buildPlateString();
+        String trimmedFileName = targetDir + "/" + plateString.replaceAll("\\s+","") + ".png";
 
         Graphics g = image.getGraphics();
         Font font = Font.createFont(Font.TRUETYPE_FONT,
@@ -115,10 +137,12 @@ public class NumberPlate {
         font = font.deriveFont(105f);
         g.setColor(Color.BLACK);
         g.setFont(font);
-        String plateString = buildPlateString();
+
         g.drawString(plateString, 60, 90);
         g.dispose();
 
-        ImageIO.write(image, "png", new File(plateString.replaceAll("\\s+","") + ".png"));
+        ImageIO.write(image, "png", new File(trimmedFileName));
+
+        return trimmedFileName;
     }
 }
