@@ -82,7 +82,7 @@ public class NumberPlate {
      * @param stringArray
      * @return
      */
-    private String randomElementOfList(String[] stringArray) {
+    public String randomElementOfList(String[] stringArray) {
         Random rand = new Random();
         return stringArray[rand.nextInt(stringArray.length)];
     }
@@ -90,7 +90,7 @@ public class NumberPlate {
     /**
      * @return
      */
-    private String randomString() {
+    public String randomString() {
         final int N = alphabet.length();
 
         Random r = new Random();
@@ -106,7 +106,7 @@ public class NumberPlate {
     /**
      * @return
      */
-    private String buildPlateString() {
+    public String buildPlateString() {
         String randomDistrict = randomElementOfList(districts);
         String randomString = randomString();
         int randomNum = 0;
@@ -124,8 +124,12 @@ public class NumberPlate {
      * @throws IOException
      * @throws FontFormatException
      */
-    public void buildPlateImage() throws IOException, FontFormatException {
-        final BufferedImage image = ImageIO.read(new File("/home/semo/springwebapps/anpg/src/numberplate1.png"));
+    public String buildPlateImage(String targetDir) throws IOException, FontFormatException {
+        ClassLoader classLoader = getClass().getClassLoader();
+        final BufferedImage image = ImageIO.read(classLoader.getResource("numberplate1.png"));
+
+        String plateString = buildPlateString();
+        String trimmedFileName = targetDir + "/" + plateString.replaceAll("\\s+","") + ".png";
 
         Graphics g = image.getGraphics();
         Font font = Font.createFont(Font.TRUETYPE_FONT,
@@ -133,10 +137,12 @@ public class NumberPlate {
         font = font.deriveFont(105f);
         g.setColor(Color.BLACK);
         g.setFont(font);
-        String plateString = buildPlateString();
+
         g.drawString(plateString, 60, 90);
         g.dispose();
 
-        ImageIO.write(image, "png", new File(plateString.replaceAll("\\s+","") + ".png"));
+        ImageIO.write(image, "png", new File(trimmedFileName));
+
+        return trimmedFileName;
     }
 }
