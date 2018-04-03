@@ -7,6 +7,10 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
+
+/**
+ *
+ */
 public class NumberPlate {
 
     private final String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -74,11 +78,18 @@ public class NumberPlate {
             "ZR", "ZZ"};
 
 
+    /**
+     * @param stringArray
+     * @return
+     */
     private String randomElementOfList(String[] stringArray) {
         Random rand = new Random();
         return stringArray[rand.nextInt(stringArray.length)];
     }
 
+    /**
+     * @return
+     */
     private String randomString() {
         final int N = alphabet.length();
 
@@ -92,6 +103,9 @@ public class NumberPlate {
         return new String(charArray);
     }
 
+    /**
+     * @return
+     */
     private String buildPlateString() {
         String randomDistrict = randomElementOfList(districts);
         String randomString = randomString();
@@ -106,6 +120,10 @@ public class NumberPlate {
         return randomDistrict + "  " + randomString + " " + randomNum;
     }
 
+    /**
+     * @throws IOException
+     * @throws FontFormatException
+     */
     public void buildPlateImage() throws IOException, FontFormatException {
         final BufferedImage image = ImageIO.read(new File("/home/semo/springwebapps/anpg/src/numberplate1.png"));
 
