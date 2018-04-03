@@ -16,6 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 @EnableRuleMigrationSupport
 class NumberPlateTest {
 
+
     @Rule
     public TemporaryFolder folder = new TemporaryFolder();
 
