@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2018.  semo
+ */
+
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;

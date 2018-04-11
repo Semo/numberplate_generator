@@ -12,12 +12,12 @@ import java.io.IOException;
 import java.util.Map;
 import java.util.Properties;
 
-
 public class Main {
 
-    private static final Logger log = LogManager.getLogger("Numberplate Generator");
-
+    private static Logger log = LogManager.getLogger(Main.class);
     public static void main(String[] args) throws Exception {
+
+        log.trace("Entering application.");
 
 //        NumberPlate np = new NumberPlate();
 //        System.out.println(np.buildPlateImage("."));
