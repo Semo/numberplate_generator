@@ -24,17 +24,10 @@ public class Main {
 
         ReadConfigs rc = new ReadConfigs();
         Map<String, String> stuff = rc.getPropertiesAsMap("/opt/kafka_2.11-1.0.1/config/zookeeper.properties");
-//
-//        for (String key: stuff.keySet()) {
-//            System.out.println(key + " " + stuff.get(key));
-//        }
-//
-        Properties props = new Properties();
-//        props.putAll(stuff);
-//        System.out.println(props.stringPropertyNames());
 
+        Properties props = new Properties();
         props.put("dataDir", stuff.get("dataDir"));
-        props.put("clientPort", "5999");
+        props.put("clientPort", stuff.get("clientPort"));
 
         QuorumPeerConfig quorumConfiguration = new QuorumPeerConfig();
         try {
@@ -54,5 +47,7 @@ public class Main {
                 log.error("ZooKeeper Failed", e);
             }
         }).start();
+
+
     }
 }
