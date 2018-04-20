@@ -4,14 +4,9 @@
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.apache.zookeeper.server.ServerConfig;
-import org.apache.zookeeper.server.ZooKeeperServerMain;
-import org.apache.zookeeper.server.quorum.QuorumPeerConfig;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.io.IOException;
-import java.util.Map;
-import java.util.Properties;
-
+@SpringBootApplication
 public class Main {
 
     private static Logger log = LogManager.getLogger(Main.class);
@@ -21,7 +16,6 @@ public class Main {
 
         NumberPlate np = new NumberPlate();
         System.out.println(np.buildPlateImage("."));
-
 
     }
 }

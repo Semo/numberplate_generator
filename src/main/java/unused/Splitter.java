@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2018.  semo
+ */
+
+package unused;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -8,7 +14,7 @@ import java.util.regex.Pattern;
 
 public class Splitter {
 
-    public List<String> readTxtIntoStringList(String fileName) throws FileNotFoundException {
+    private List<String> readTxtIntoStringList(String fileName) throws FileNotFoundException {
         File file = new File(fileName);
         Scanner input = new Scanner(file);
         List<String> list = new ArrayList<>();
@@ -20,7 +26,7 @@ public class Splitter {
     }
 
 
-    public ArrayList<String> splitter(List<String> textlist, String pattern) {
+    private ArrayList<String> splitter(List<String> textlist, String pattern) {
         ArrayList<String> results = new ArrayList<>();
 
         Pattern p = Pattern.compile(pattern);

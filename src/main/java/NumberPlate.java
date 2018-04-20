@@ -11,10 +11,6 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
-
-/**
- *
- */
 public class NumberPlate {
 
     private final String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
