@@ -1,9 +1,12 @@
+import components.NumberPlate;
 import org.junit.Rule;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;
 import org.junit.rules.TemporaryFolder;
+import org.junit.runner.RunWith;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.awt.*;
 import java.io.File;
@@ -13,6 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertNotEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @DisplayName("Testing numberplate generation")
+@RunWith(SpringJUnit4ClassRunner.class)
 @EnableRuleMigrationSupport
 class NumberPlateTest {
 

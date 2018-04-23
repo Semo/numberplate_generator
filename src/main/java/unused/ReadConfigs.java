@@ -6,7 +6,6 @@ package unused;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Enumeration;
 import java.util.HashMap;
@@ -37,18 +36,15 @@ public class ReadConfigs {
             File file = new File(pathToProperties);
             FileInputStream inputStream = new FileInputStream(file);
 
-            if (inputStream != null) {
-                props.load(inputStream);
+            props.load(inputStream);
 
-                Enumeration enumKeys = props.keys();
-                while (enumKeys.hasMoreElements()) {
-                    String key = (String) enumKeys.nextElement();
-                    map.put(key, props.getProperty(key));
-                }
-                return map;
-            } else {
-                throw new FileNotFoundException("property file '" + pathToProperties + "' not found in the classpath");
+            Enumeration enumKeys = props.keys();
+            while (enumKeys.hasMoreElements()) {
+                String key = (String) enumKeys.nextElement();
+                map.put(key, props.getProperty(key));
             }
+            return map;
+
         } catch (Exception e) {
             e.printStackTrace();
         }

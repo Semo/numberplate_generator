@@ -19,7 +19,7 @@ public class ReadConfigsTest {
 
     @Rule
     public TemporaryFolder folder = new TemporaryFolder();
-    ;
+
     private ReadConfigs rc = new ReadConfigs();
 
     @DisplayName("Should load a property file and return a map")

@@ -2,7 +2,7 @@
  * Copyright (c) 2018.  semo
  */
 
-import javax.imageio.ImageIO;
+package components;import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -12,8 +12,6 @@ import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class NumberPlate {
-
-    private final String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     private final String[] districts = {"0", "1", "AA", "ABG", "ABI", "AC", "AE", "AH",
             "AIC", "AK", "ALF", "ALZ", "AM", "ANA", "ANG", "ANK", "AÖ", "AP", "APD",
@@ -91,6 +89,7 @@ public class NumberPlate {
      * @return
      */
     public String randomString() {
+        String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         final int N = alphabet.length();
 
         Random r = new Random();
@@ -104,7 +103,7 @@ public class NumberPlate {
     }
 
     /**
-     * @return
+     * @return build the String embedded in the plate background image
      */
     public String buildPlateString() {
         String randomDistrict = randomElementOfList(districts);
@@ -112,7 +111,7 @@ public class NumberPlate {
         int randomNum = 0;
         if (randomString.length() > 1) {
             randomNum = ThreadLocalRandom.current().nextInt(1, 99 + 1);
-            randomString.concat(" ");
+//            randomString.concat(" ");
         } else {
             randomNum = ThreadLocalRandom.current().nextInt(1, 999 + 1);
         }
@@ -121,28 +120,35 @@ public class NumberPlate {
     }
 
     /**
-     * @throws IOException
-     * @throws FontFormatException
+     * @throws IOException if numberplate background image is missing
+     * @throws FontFormatException if a Font is missing
      */
     public String buildPlateImage(String targetDir) throws IOException, FontFormatException {
         ClassLoader classLoader = getClass().getClassLoader();
-        final BufferedImage image = ImageIO.read(classLoader.getResource("numberplate1.png"));
+        final BufferedImage image;
+        try {
+            image = ImageIO.read(classLoader.getResource("numberplate1.png"));
+            String plateString = buildPlateString();
+            String trimmedFileName = targetDir + "/" + plateString.replaceAll("\\s+","") + ".png";
 
-        String plateString = buildPlateString();
-        String trimmedFileName = targetDir + "/" + plateString.replaceAll("\\s+","") + ".png";
+            Graphics g = image.getGraphics();
+            Font font = Font.createFont(Font.TRUETYPE_FONT,
+                    new FileInputStream("/usr/share/fonts/EuroPlate/EuroPlate.ttf"));
+            font = font.deriveFont(105f);
+            g.setColor(Color.BLACK);
+            g.setFont(font);
 
-        Graphics g = image.getGraphics();
-        Font font = Font.createFont(Font.TRUETYPE_FONT,
-                new FileInputStream("/usr/share/fonts/EuroPlate/EuroPlate.ttf"));
-        font = font.deriveFont(105f);
-        g.setColor(Color.BLACK);
-        g.setFont(font);
+            g.drawString(plateString, 60, 90);
+            g.dispose();
 
-        g.drawString(plateString, 60, 90);
-        g.dispose();
+            ImageIO.write(image, "png", new File(trimmedFileName));
 
-        ImageIO.write(image, "png", new File(trimmedFileName));
+            return trimmedFileName;
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
+            return null;
+        }
 
-        return trimmedFileName;
+
     }
 }
