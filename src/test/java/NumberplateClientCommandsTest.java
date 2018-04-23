@@ -2,7 +2,7 @@
  * Copyright (c) 2018.  semo
  */
 
-import main.NumberplateClientCommand;
+import main.NumberplateClientCommands;
 import org.assertj.core.api.Assertions;
 import org.hamcrest.core.Is;
 import org.junit.jupiter.api.BeforeEach;
@@ -26,7 +26,7 @@ import static org.junit.Assert.assertThat;
 
 @DisplayName("Testing Spring-Shell numberplate commands")
 @RunWith(SpringJUnit4ClassRunner.class)
-class NumberplateClientCommandTest {
+class NumberplateClientCommandsTest {
 
     private StandardMethodTargetRegistrar registrar = new StandardMethodTargetRegistrar();
     private ConfigurableCommandRegistry registry = new ConfigurableCommandRegistry();
@@ -35,7 +35,7 @@ class NumberplateClientCommandTest {
     @BeforeEach
     void setUp() {
         ApplicationContext context =
-                new AnnotationConfigApplicationContext(NumberplateClientCommand.class);
+                new AnnotationConfigApplicationContext(NumberplateClientCommands.class);
         registrar.setApplicationContext(context);
         registrar.register(registry);
     }
@@ -52,7 +52,7 @@ class NumberplateClientCommandTest {
                 "Numberplate Client Command");
         assertThat(methodTarget.getHelp(), Is.is("Add up to sum."));
         assertThat(methodTarget.getMethod(), is(
-                ReflectionUtils.findMethod(NumberplateClientCommand.class, "sum", int.class,
+                ReflectionUtils.findMethod(NumberplateClientCommands.class, "sum", int.class,
                         int.class)));
         assertThat(methodTarget.getAvailability().isAvailable(), is(true));
         assertEquals(3, ReflectionUtils.invokeMethod(methodTarget.getMethod(),
@@ -70,7 +70,7 @@ class NumberplateClientCommandTest {
                 "Numberplate Client Command");
         assertThat(methodTarget.getHelp(), Is.is("Saying hi to a given person's name."));
         assertThat(methodTarget.getMethod(), is(
-                ReflectionUtils.findMethod(NumberplateClientCommand.class, "sayHi", String.class)));
+                ReflectionUtils.findMethod(NumberplateClientCommands.class, "sayHi", String.class)));
         assertThat(methodTarget.getAvailability().isAvailable(), is(true));
         assertEquals("Hi, Nadine", ReflectionUtils.invokeMethod(methodTarget.getMethod(),
                 methodTarget.getBean(), "Nadine"));
