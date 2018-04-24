@@ -1,9 +1,5 @@
-import org.junit.Rule;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
-import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;
-import org.junit.rules.TemporaryFolder;
-import unused.ReadConfigs;
+package anpgtests;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -11,7 +7,13 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Rule;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;
+import org.junit.rules.TemporaryFolder;
+
+import unused.ReadConfigs;
 
 @DisplayName("Testing read configuration properties")
 @EnableRuleMigrationSupport

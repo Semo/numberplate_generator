@@ -27,3 +27,8 @@ hs_err_pid*
 out/
 *.png
 target/
+.classpath
+.project
+*.eml
+.settings/
+bin/
