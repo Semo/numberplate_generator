@@ -2,7 +2,7 @@
  * Copyright (c) 2018.  semo
  */
 
-package unused;
+package utilities;
 
 import java.io.File;
 import java.io.FileNotFoundException;

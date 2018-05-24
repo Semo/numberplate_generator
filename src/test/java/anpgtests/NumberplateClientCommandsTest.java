@@ -10,10 +10,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.Map;
 
+import components.NumberPlateUtility;
 import org.assertj.core.api.Assertions;
 import org.hamcrest.core.Is;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
+import org.junit.Before;
+import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.runner.RunWith;
 import org.springframework.context.ApplicationContext;
@@ -25,17 +26,18 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.util.ReflectionUtils;
 
 import main.NumberplateClientCommands;
+import services.RestfulClient;
 
 @DisplayName("Testing Spring-Shell numberplate commands")
 @RunWith(SpringRunner.class)
 public class NumberplateClientCommandsTest {
 
-    private static StandardMethodTargetRegistrar registrar = new StandardMethodTargetRegistrar();
-    private static ConfigurableCommandRegistry registry = new ConfigurableCommandRegistry();
+    private StandardMethodTargetRegistrar registrar = new StandardMethodTargetRegistrar();
+    private ConfigurableCommandRegistry registry = new ConfigurableCommandRegistry();
     private Map<String, MethodTarget> commands;
 
-    @BeforeAll
-    public static void setUp() {
+    @Before
+    public void setUp() {
         ApplicationContext context =
                 new AnnotationConfigApplicationContext(NumberplateClientCommands.class);
         registrar.setApplicationContext(context);
@@ -78,5 +80,18 @@ public class NumberplateClientCommandsTest {
                 methodTarget.getBean(), "Nadine"));
     }
 
+    @DisplayName("should send one request to kafka instance.")
+    @Test
+    public void shouldMakeRequest() {
+    	commands = registry.listCommands();
+    	MethodTarget methodTarget = commands.get("one");
+
+        NumberPlateUtility np = new NumberPlateUtility();
+        RestfulClient rfc = new RestfulClient();
+        rfc.postNumberPlate(np.completeImage());
+//        assertThat(methodTarget, notNullValue());
+        assert false;
+
+    }
 
 }

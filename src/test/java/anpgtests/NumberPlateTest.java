@@ -1,23 +1,21 @@
 package anpgtests;
-import static org.junit.jupiter.api.Assertions.assertNotEquals;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import java.awt.FontFormatException;
-import java.io.File;
-import java.io.IOException;
-
-//import org.junit.Before;
+import components.NumberPlateUtility;
+import org.junit.Before;
 import org.junit.Rule;
-//import org.junit.Test;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;
 import org.junit.rules.TemporaryFolder;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import components.NumberPlate;
+import java.io.File;
+
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+//import org.junit.Before;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @DisplayName("Testing numberplate generation")
@@ -25,14 +23,13 @@ import components.NumberPlate;
 public class NumberPlateTest {
 
 
+    private static NumberPlateUtility num;
     @Rule
     public TemporaryFolder folder = new TemporaryFolder();
 
-    private static NumberPlate num;
-
-    @BeforeAll
-    public static void init() {
-        num = new NumberPlate();
+    @Before
+    public void init() {
+        num = new NumberPlateUtility();
     }
 
     @DisplayName("Should return a random String element of a given Array.")
@@ -59,15 +56,8 @@ public class NumberPlateTest {
     @DisplayName("Should generate a new numberplate image file")
     @Test
     public void shouldBuildPlateImage() {
-        try {
-            File f = new File(num.buildPlateImage(String.valueOf(folder.getRoot())));
-            assertTrue(f.exists());
-        } catch (IOException ioe) {
-            ioe.printStackTrace();
-        } catch (FontFormatException e) {
-            e.printStackTrace();
-        }
-
+        File f = new File(String.valueOf(num.buildPlateImageAsFile(String.valueOf(folder.getRoot()))));
+        assertTrue(f.exists());
     }
 
 }

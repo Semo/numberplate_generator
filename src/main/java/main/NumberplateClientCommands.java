@@ -4,10 +4,11 @@
 
 package main;
 
-import components.NumberPlate;
+import components.NumberPlateUtility;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
+import services.RestfulClient;
 
 import java.awt.*;
 import java.io.IOException;
@@ -33,10 +34,17 @@ public class NumberplateClientCommands {
     public String simple(
             @ShellOption(help = "path to image") String path
     ) throws IOException, FontFormatException {
-        NumberPlate np = new NumberPlate();
-        np.buildPlateImage(path);
+        NumberPlateUtility np = new NumberPlateUtility();
+        np.buildPlateImageAsFile(path);
         return "Done.";
     }
 
+    @ShellMethod("Sends one simple POST request.")
+    public String one() {
+        RestfulClient rc = new RestfulClient();
+        NumberPlateUtility np = new NumberPlateUtility();
+        rc.postNumberPlate(np.completeImage());
+        return "Request sent.";
+    }
 
 }

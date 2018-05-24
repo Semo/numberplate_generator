@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;
 import org.junit.rules.TemporaryFolder;
 
-import unused.ReadConfigs;
+import utilities.ReadConfigs;
 
 @DisplayName("Testing read configuration properties")
 @EnableRuleMigrationSupport

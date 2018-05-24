@@ -2,7 +2,7 @@
  * Copyright (c) 2018.  semo
  */
 
-package unused;
+package utilities;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -18,8 +18,7 @@ import java.util.Properties;
  */
 public class ReadConfigs {
 
-    public ReadConfigs() {
-    }
+    public ReadConfigs() {}
 
     /**
      * Returns map of properties from a *.properties file
