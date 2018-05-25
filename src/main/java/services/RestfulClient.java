@@ -19,7 +19,7 @@ public class RestfulClient {
     public RestfulClient() {
     }
 
-    public String postNumberPlate(CamImage camImage) {
+    public HttpStatus postNumberPlate(CamImage camImage) {
 
         LinkedMultiValueMap<String, Object> map = new LinkedMultiValueMap<>();
         map.add("numplate", camImage.getIdentifier());
@@ -44,6 +44,6 @@ public class RestfulClient {
                 HttpMethod.POST,
                 requestEntity, String.class);
 
-        return result.getBody();
+        return result.getStatusCode();
     }
 }

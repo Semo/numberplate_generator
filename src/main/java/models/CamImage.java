@@ -1,6 +1,7 @@
 package models;
 
 /**
+ * VO of an image and a identifying string.
  * @author semo
  */
 public class CamImage {

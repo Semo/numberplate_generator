@@ -5,6 +5,7 @@
 package main;
 
 import components.NumberPlateUtility;
+import org.springframework.http.HttpStatus;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
@@ -43,8 +44,11 @@ public class NumberplateClientCommands {
     public String one() {
         RestfulClient rc = new RestfulClient();
         NumberPlateUtility np = new NumberPlateUtility();
-        rc.postNumberPlate(np.completeImage());
-        return "Request sent.";
+        HttpStatus response = rc.postNumberPlate(np.completeImage());
+        if (response == HttpStatus.OK) {
+            return "Request sent successfully.";
+        }
+        return String.format("Request failed: %s", response.getReasonPhrase());
     }
 
 }

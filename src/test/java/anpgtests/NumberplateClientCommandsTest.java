@@ -19,6 +19,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.runner.RunWith;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.http.HttpStatus;
 import org.springframework.shell.ConfigurableCommandRegistry;
 import org.springframework.shell.MethodTarget;
 import org.springframework.shell.standard.StandardMethodTargetRegistrar;
@@ -82,16 +83,14 @@ public class NumberplateClientCommandsTest {
 
     @DisplayName("should send one request to kafka instance.")
     @Test
-    public void shouldMakeRequest() {
+    public void shouldPostCamImage2kafka() {
     	commands = registry.listCommands();
     	MethodTarget methodTarget = commands.get("one");
 
         NumberPlateUtility np = new NumberPlateUtility();
         RestfulClient rfc = new RestfulClient();
-        rfc.postNumberPlate(np.completeImage());
-//        assertThat(methodTarget, notNullValue());
-        assert false;
-
+        HttpStatus response = rfc.postNumberPlate(np.completeImage());
+        assertThat(response, is(HttpStatus.OK));
     }
 
 }
