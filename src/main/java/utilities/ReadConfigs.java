@@ -4,6 +4,9 @@
 
 package utilities;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -17,6 +20,9 @@ import java.util.Properties;
  * Utility class which reads any Property file.
  */
 public class ReadConfigs {
+
+    private static Logger log = LogManager.getLogger(ReadConfigs.class);
+
 
     public ReadConfigs() {}
 
@@ -45,6 +51,7 @@ public class ReadConfigs {
             return map;
 
         } catch (Exception e) {
+            log.error(e.getMessage());
             e.printStackTrace();
         }
         return map;

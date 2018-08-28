@@ -11,7 +11,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.util.Arrays;
-import java.util.Base64;
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -120,7 +119,7 @@ public class NumberPlateUtility {
 
             Graphics g = image.getGraphics();
             Font font = Font.createFont(Font.TRUETYPE_FONT,
-                    new FileInputStream("/usr/share/fonts/EuroPlate/EuroPlate.ttf"));
+                    new FileInputStream("/usr/share/fonts/truetype/EuroPlate.ttf"));
             font = font.deriveFont(105f);
             g.setColor(Color.BLACK);
             g.setFont(font);
@@ -161,7 +160,7 @@ public class NumberPlateUtility {
 
             Graphics g = image.getGraphics();
             Font font = Font.createFont(Font.TRUETYPE_FONT,
-                    new FileInputStream("/usr/share/fonts/EuroPlate/EuroPlate.ttf"));
+                    new FileInputStream("/usr/share/fonts/truetype/EuroPlate.ttf"));
             font = font.deriveFont(105f);
             g.setColor(Color.BLACK);
             g.setFont(font);
@@ -222,10 +221,7 @@ public class NumberPlateUtility {
         } else if (!imageFile.equals(other.imageFile))
             return false;
         if (plateString == null) {
-            if (other.plateString != null)
-                return false;
-        } else if (!plateString.equals(other.plateString))
-            return false;
-        return true;
+            return other.plateString == null;
+        } else return plateString.equals(other.plateString);
     }
 }

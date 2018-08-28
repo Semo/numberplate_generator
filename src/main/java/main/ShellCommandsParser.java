@@ -7,6 +7,7 @@ package main;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Objects;
 
 public class ShellCommandsParser {
 
@@ -18,7 +19,7 @@ public class ShellCommandsParser {
 
     private void parse(String... args) {
         for (int i = 0; i < args.length; i++) {
-            arguments.put(args[i], args[++i]);
+            arguments.put(args[i], args[i]);
         }
     }
 
@@ -33,5 +34,18 @@ public class ShellCommandsParser {
 
     public String valueOf(String option) {
         return arguments.get(option);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        ShellCommandsParser that = (ShellCommandsParser) o;
+        return Objects.equals(arguments, that.arguments);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(arguments);
     }
 }
