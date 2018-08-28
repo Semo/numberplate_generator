@@ -5,17 +5,28 @@
 package main;
 
 import components.NumberPlateUtility;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.http.HttpStatus;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
 import services.RestfulClient;
 
-import java.awt.*;
-import java.io.IOException;
+import java.util.Arrays;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.ThreadLocalRandom;
+import java.util.concurrent.TimeUnit;
 
 @ShellComponent
 public class NumberplateClientCommands {
+
+    private static Logger log = LogManager.getLogger(NumberplateClientCommands.class);
+
+    Runnable runnable = () -> {
+        one();
+    };
 
     @ShellMethod("Saying hi to a given person's name.")
     public String sayHi(
@@ -34,7 +45,7 @@ public class NumberplateClientCommands {
     @ShellMethod("Generates a numberplate at the given location.")
     public String simple(
             @ShellOption(help = "path to image") String path
-    ) throws IOException, FontFormatException {
+    ) {
         NumberPlateUtility np = new NumberPlateUtility();
         np.buildPlateImageAsFile(path);
         return "Done.";
@@ -49,6 +60,42 @@ public class NumberplateClientCommands {
             return "Request sent successfully.";
         }
         return String.format("Request failed: %s", response.getReasonPhrase());
+    }
+
+    @ShellMethod("Sends many POST request.")
+    public String many(@ShellOption String[] argv) {
+        if (argv.length <= 0) {
+            log.error(Arrays.toString(argv));
+            throw new IllegalArgumentException("Given parameters were wrong or insufficient: " + Arrays.toString(argv));
+        }
+
+        ShellCommandsParser commands = new ShellCommandsParser(argv);
+
+        // Do "i" POST request(s) and stop :-D :-D Multiverschachtelung-Powa!
+        if (argv[0].chars().allMatch(Character::isDigit)) {
+            if (Integer.valueOf(commands.valueOf(String.valueOf(argv[0]))) > 0) {
+                int boundary = Integer.valueOf(commands.valueOf(String.valueOf(argv[0])));
+                for (int i = 0; i <= boundary; i++) {
+                    one();
+                }
+                return "Done";
+            }
+        }
+
+        // Do POST requests at a random time
+        if (commands.hasOption("nuke")) {
+            ScheduledExecutorService service = Executors
+                    .newSingleThreadScheduledExecutor();
+            for (int i = 0; i < 10; i++) {
+                service.scheduleAtFixedRate(runnable, 0, ThreadLocalRandom.current().nextInt(1, 3000), TimeUnit.MILLISECONDS);
+                one();
+            }
+            return "Done";
+        }
+
+        log.info("Sending many POST requests completed without error.");
+        return "Done";
+
     }
 
 }
