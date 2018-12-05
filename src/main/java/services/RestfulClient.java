@@ -13,11 +13,12 @@ public class RestfulClient {
     private RestTemplate restTemplate = new RestTemplate();
     private HttpHeaders headers = new HttpHeaders();
 
-    @Value("${kafkaeskadapter.uri}")
-    private String URI = "http://localhost:8080/data";
+//    @Value("${kafkaeskadapter.uri}")
+//    private String URI;
+    private String URI = "http://180.0.0.7:8080/data";
+//    private String URI = "http://localhost:8080/data";
 
-    public RestfulClient() {
-    }
+    public RestfulClient() {}
 
     public HttpStatus postNumberPlate(CamImage camImage) {
 

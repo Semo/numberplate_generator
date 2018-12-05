@@ -56,7 +56,7 @@ public class NumberplateClientCommands {
         RestfulClient rc = new RestfulClient();
         NumberPlateUtility np = new NumberPlateUtility();
         HttpStatus response = rc.postNumberPlate(np.completeImage());
-        if (response == HttpStatus.OK) {
+        if (response == HttpStatus.ACCEPTED) {
             return "Request sent successfully.";
         }
         return String.format("Request failed: %s", response.getReasonPhrase());
