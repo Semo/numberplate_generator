@@ -2,21 +2,24 @@ package services;
 
 import models.CamImage;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 import org.springframework.core.io.ByteArrayResource;
 import org.springframework.http.*;
+import org.springframework.stereotype.Component;
 import org.springframework.util.LinkedMultiValueMap;
+import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
-
 
 public class RestfulClient {
 
     private RestTemplate restTemplate = new RestTemplate();
     private HttpHeaders headers = new HttpHeaders();
 
-//    @Value("${kafkaeskadapter.uri}")
+    @Value("${kafkaeskadapter.uri}")
 //    private String URI;
-    private String URI = "http://180.0.0.7:8080/data";
-//    private String URI = "http://localhost:8080/data";
+//    private String URI = "http://180.0.0.7:8080/data";
+    private String URI = "http://localhost:9001/postoffice";
 
     public RestfulClient() {}
 
@@ -47,4 +50,7 @@ public class RestfulClient {
 
         return result.getStatusCode();
     }
+
+
 }
+
