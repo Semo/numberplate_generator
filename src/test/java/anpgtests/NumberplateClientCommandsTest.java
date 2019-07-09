@@ -91,7 +91,7 @@ public class NumberplateClientCommandsTest {
         NumberPlateUtility np = new NumberPlateUtility();
         RestfulClient rfc = new RestfulClient();
         HttpStatus response = rfc.postNumberPlate(np.completeImage());
-        assertThat(response, is(HttpStatus.OK));
+        assertThat(response, is(HttpStatus.ACCEPTED));
     }
 
 }
