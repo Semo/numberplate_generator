@@ -13,6 +13,7 @@ import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
 import services.RestfulClient;
 
+import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
@@ -25,7 +26,11 @@ public class NumberplateClientCommands {
     private static Logger log = LogManager.getLogger(NumberplateClientCommands.class);
 
     Runnable runnable = () -> {
-        one();
+        try {
+            one();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
     };
 
     @ShellMethod("Saying hi to a given person's name.")
@@ -52,11 +57,11 @@ public class NumberplateClientCommands {
     }
 
     @ShellMethod("Sends one simple POST request.")
-    public String one() {
+    public String one() throws FileNotFoundException {
         RestfulClient rc = new RestfulClient();
         NumberPlateUtility np = new NumberPlateUtility();
         HttpStatus response = rc.postNumberPlate(np.completeImage());
-        if (response == HttpStatus.OK) {
+        if (response == HttpStatus.ACCEPTED) {
             return "Request sent successfully.";
         }
         return String.format("Request failed: %s", response.getReasonPhrase());
@@ -76,7 +81,11 @@ public class NumberplateClientCommands {
             if (Integer.valueOf(commands.valueOf(String.valueOf(argv[0]))) > 0) {
                 int boundary = Integer.valueOf(commands.valueOf(String.valueOf(argv[0])));
                 for (int i = 0; i <= boundary; i++) {
-                    one();
+                    try {
+                        one();
+                    } catch (FileNotFoundException e) {
+                        e.printStackTrace();
+                    }
                 }
                 return "Done";
             }
@@ -88,7 +97,11 @@ public class NumberplateClientCommands {
                     .newSingleThreadScheduledExecutor();
             for (int i = 0; i < 10; i++) {
                 service.scheduleAtFixedRate(runnable, 0, ThreadLocalRandom.current().nextInt(1, 3000), TimeUnit.MILLISECONDS);
-                one();
+                try {
+                    one();
+                } catch (FileNotFoundException e) {
+                    e.printStackTrace();
+                }
             }
             return "Done";
         }

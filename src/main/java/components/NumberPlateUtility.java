@@ -119,7 +119,7 @@ public class NumberPlateUtility {
 
             Graphics g = image.getGraphics();
             Font font = Font.createFont(Font.TRUETYPE_FONT,
-                    new FileInputStream("/usr/share/fonts/truetype/EuroPlate.ttf"));
+                    new FileInputStream("/home/semo/.local/share/fonts/EuroPlate.ttf"));
             font = font.deriveFont(105f);
             g.setColor(Color.BLACK);
             g.setFont(font);
@@ -160,7 +160,7 @@ public class NumberPlateUtility {
 
             Graphics g = image.getGraphics();
             Font font = Font.createFont(Font.TRUETYPE_FONT,
-                    new FileInputStream("/usr/share/fonts/truetype/EuroPlate.ttf"));
+                    new FileInputStream("/home/semo/.local/share/fonts/EuroPlate.ttf"));
             font = font.deriveFont(105f);
             g.setColor(Color.BLACK);
             g.setFont(font);

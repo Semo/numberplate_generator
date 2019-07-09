@@ -8,6 +8,7 @@ import static org.hamcrest.core.Is.is;
 import static org.hamcrest.core.IsNull.notNullValue;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.io.FileNotFoundException;
 import java.util.Map;
 
 import components.NumberPlateUtility;
@@ -83,7 +84,7 @@ public class NumberplateClientCommandsTest {
 
     @DisplayName("should send one request to kafka instance.")
     @Test
-    public void shouldPostCamImage2kafka() {
+    public void shouldPostCamImage2kafka() throws FileNotFoundException {
     	commands = registry.listCommands();
     	MethodTarget methodTarget = commands.get("one");
 
