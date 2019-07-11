@@ -71,6 +71,14 @@ public class NumberPlateUtility {
         return stringArray[rand.nextInt(stringArray.length)];
     }
 
+    public Font getFont() throws IOException, FontFormatException {
+        ClassLoader classLoader = getClass().getClassLoader();
+        Font font = Font.createFont(Font.TRUETYPE_FONT, classLoader.getSystemResourceAsStream("EuroPlate.ttf"));
+        font.deriveFont(105f);
+        System.out.println(font.getFontName());
+        return font;
+    }
+
     /**
      * @return
      */
@@ -118,9 +126,7 @@ public class NumberPlateUtility {
             String trimmedFileName = targetDir + "/" + plateString.replaceAll("\\s+", "") + ".png";
 
             Graphics g = image.getGraphics();
-            Font font = Font.createFont(Font.TRUETYPE_FONT,
-                    new FileInputStream("/home/semo/.local/share/fonts/EuroPlate.ttf"));
-            font = font.deriveFont(105f);
+            Font font = getFont();
             g.setColor(Color.BLACK);
             g.setFont(font);
 
@@ -159,9 +165,7 @@ public class NumberPlateUtility {
             this.plateString = buildPlateString();
 
             Graphics g = image.getGraphics();
-            Font font = Font.createFont(Font.TRUETYPE_FONT,
-                    new FileInputStream("/home/semo/.local/share/fonts/EuroPlate.ttf"));
-            font = font.deriveFont(105f);
+            Font font = getFont();
             g.setColor(Color.BLACK);
             g.setFont(font);
 
